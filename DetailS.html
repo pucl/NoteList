@@ -5,9 +5,9 @@
 		<title>English Note</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
+	
 		<link rel="stylesheet" href="assets/css/main.css" />
-		
+	
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   
 	</head>
@@ -29,7 +29,7 @@
 											<li><a href="word.html">Words</a></li>
 											<li><a href="Sentence.html">Sentences</a></li>
 											<li><a href="phase.html">Phases</a></li>
-											<li><a href="#menu">Favorites</a></li>
+											<li><a href="search.html">Search</a></li>
 										</ul>
 									</div>
 								</li>
@@ -41,82 +41,66 @@
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
-							<h2>Search</h2>
-							
+													
 						</div>
-						<div id='output'></div>
-						
-							<div class="form-group">
-          <input type="input" class="form-control input-lg" id="txt-search" placeholder="Type your search character">
-        </div>
-<div id="filter-records"></div>
-
+					
 					</section>
 
-					<section id="one" class="wrapper style1 special">
-						<div class="inner">
+ 		
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
 						
-						</div>
+							<div class="content">
+								
+							</div>
+						</section>
+						
 					</section>
-
 
 			</div>
-
 
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
-			
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/DataList.js"></script>
 
 	</body>
 
 <script type="text/javascript">
-	
+	var parameters = location.search.substring(1).split("&");
 
-$('#txt-search').keyup(function(){
-            var searchField = $(this).val();
-			if(searchField === '')  {
-				$('#filter-records').html('');
-				return;
-			}
-			
-            var regex = new RegExp(searchField, "i");
-            var output = '<header class="major">';
+    var temp = parameters[0].split("=");
+    l = unescape(temp[1]);
+    
+   
+
+ 		var regex = new RegExp(l, "i");
+            var output = '';
+              var outputbanner = ''
             var count = 1;
 			  $.each(DataList, function(key, val){
 				if ((val.Word.search(regex) != -1)) {
-					if(val.WordType != 'S'){
-	  					output += '<h3>' ;
-					  output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
-					   output += '</h3></br>';
-
-					}else{
-						output += '<h3>' ;
-					  output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
-					   output += '</h3></br>';
-					}
-				
-				  
-				
-				}else if ((val.Remark.search(regex) != -1)){
-					if(val.WordType != 'S'){
-						output += '<h3>' ;
-				  		output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
-				   		output += '</h3></br>';
-					}else{
-						output += '<h3>' ;
-				  		output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
-				   		output += '</h3></br>';
-					}
 					
+				  	output += ' <div class="content">' ;
+				  	var arry = val.Remark.split('<br>');
+				 for( i= 0 ; i<arry.length;i++)
+				  	output += '<p>' + arry[i] + '</p>';
+				   	output += '</div>';
+					  outputbanner +='<h2>'+ val.Word +'</h2>';
+					  outputbanner +='<p>'+ val.KK +'<br />';
+					 outputbanner +='<p>'+ val.Explain +'<br />';
+					 outputbanner +='<p>'+ val.CreateDate +'</p>';
+					 outputbanner +='<a>'+ val.VoiceLink +'</a>';
 				}
 			  });
-			  output += '</header>';
-			  $('#one .inner').html(output);
-        });
+			  output += '</ul>';
+			  $('#two .spotlight').html(output);
+ 			$('#banner .inner').html(outputbanner);
+
+
 </script>
 
 
