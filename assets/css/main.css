@@ -2455,7 +2455,7 @@
 
 				.features li {
 					padding: 3em 2em 1em 2em ;
-					text-align: center;
+					text-align: left;
 				}
 
 					.features li:before {
@@ -2474,6 +2474,7 @@
 					background-color: transparent !important;
 					border-top: solid 2px #fff;
 					width: 100%;
+					text-align: left;
 				}
 
 					.features li:first-child {
@@ -2801,8 +2802,8 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
-			color: #d3d4e4;
+			background-color:teal;
+			color: white;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -3162,7 +3163,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: steelblue;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
