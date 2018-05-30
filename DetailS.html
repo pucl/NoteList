@@ -18,7 +18,8 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<h1><a href="index.html">English</a></h1>
+						<!--<h1><a href="index.html">English</a></h1>-->
+						<button onclick="save()" type="button"> save </button>
 						<nav id="nav">
 							<ul>
 								<li class="special">
@@ -70,6 +71,21 @@
 	</body>
 
 <script type="text/javascript">
+
+		function save(){
+	// localStorage.setItem("lastWord");
+	  // localStorage.setItem("lastWordType");
+	  //localStorage.setItem("lastTime");
+	      localStorage.lastWord = $('#banner .inner h2').text();
+	   localStorage.lastWordType = 'S';
+	       var d = new Date().getDate();
+	    var m = new Date().getMonth() + 1; //Month from 0 to 11
+	    var y = new Date().getFullYear();
+	    
+
+	  localStorage.lastTime = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+}
+
 	var parameters = location.search.substring(1).split("&");
 
     var temp = parameters[0].split("=");
@@ -81,20 +97,29 @@
             var output = '';
               var outputbanner = ''
             var count = 1;
+              var isfind = false;
 			  $.each(DataList, function(key, val){
 				if ((val.Word.search(regex) != -1)) {
 					
 				  	output += ' <div class="content">' ;
 				  	var arry = val.Remark.split('<br>');
-				 for( i= 0 ; i<arry.length;i++)
-				  	output += '<p>' + arry[i] + '</p>';
+					 for( i= 0 ; i<arry.length;i++)
+					  	output += '<p>' + arry[i] + '</p>';
 				   	output += '</div>';
+
 					  outputbanner +='<h2>'+ val.Word +'</h2>';
-					  outputbanner +='<div id= "kkname">'+ val.KK +'</p></div>';
-					 outputbanner +='<p>'+ val.Explain +'</p>';
-					 outputbanner +='<p>'+ val.CreateDate +'</p>';
+					 if(val.KK !=='')
+					  	outputbanner +='<div id= "kkname">'+ val.KK +'</p></div>';
+					  if(val.Explain !== '')
+					 		outputbanner +='<p>'+ val.Explain +'</p>';
+					 if(val.CreateDate !== '')
+					 	outputbanner +='<p>'+ val.CreateDate +'</p>';
+					 if(val.VoiceLink !=='')
 					 outputbanner +='<a>'+ val.VoiceLink +'</a>';
+					  isfind = true;
 				}
+					if(isfind === true)
+					return false;
 			  });
 			  output += '</ul>';
 			  $('#two .spotlight').html(output);

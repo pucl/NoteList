@@ -79,6 +79,11 @@
 	
 
 $(document).ready(function(){
+
+	DataList.sort( function(a, b){   
+		 return ((a.Word < b.Word) ? -1 : ((a.Word > b.Word) ? 1 : 0));
+//return (a["Word" ]) > (b["Word" ]) ? 1 : (a[ "Word"]) == (b[ "Word" ]) ? 0 : -1;   
+});  
  // var regex = new RegExp(searchField, "i");
             var output = '<header class="major">';
             var outputbanner = ''
@@ -87,6 +92,7 @@ $(document).ready(function(){
 				if ((val.WordType == 'W')) {
 				
 				  output += '<h3>' ;
+				  output += '<a name ='+ val.Word +'></a>'
 				  output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
 				   output += '</h3></br>';
 				

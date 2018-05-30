@@ -16,7 +16,8 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<h1><a href="index.html">English</a></h1>
+						<!--<h1><a href="index.html">English</a></h1>-->
+						<button onclick="save()" type="button"> save </button>
 						<nav id="nav">
 							<ul>
 								<li class="special">
@@ -66,6 +67,23 @@
 	</body>
 
 <script type="text/javascript">
+
+	function save(){
+	// localStorage.setItem("lastWord");
+	  // localStorage.setItem("lastWordType");
+	  //localStorage.setItem("lastTime");
+	   localStorage.lastWord = $('#banner .inner h2').text();
+	   localStorage.lastWordType = $('#wType').val();
+	    var d = new Date().getDate();
+	    var m = new Date().getMonth() + 1; //Month from 0 to 11
+	    var y = new Date().getFullYear();
+	    
+
+	  localStorage.lastTime = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+
+}
+
+
 	var parameters = location.search.substring(1).split("&");
 
 
@@ -74,27 +92,54 @@
     
    
 
+
+
+
  		var regex = new RegExp(l, "i");
             var output = '<ul class="features">';
               var outputbanner = ''
             var count = 1;
+            var isfind = false;
 			  $.each(DataList, function(key, val){
 				if ((val.Word.search(regex) != -1)) {
-					
-				  
-			    	output += ' <li class="icon fa-paper-plane-o">' ;
-				  	output += '<p>' + val.Remark + '</p>';
-				   	output += '</li>';
-					output += ' <li class="icon fa-paper-plane-o">' ;
-				  	output += '<p>' + val.Sentence + '</p>';
-				   	output += '</li>';
-					  outputbanner +='<h2>'+ val.Word +'</h2>';
-					  outputbanner +='<div id= "kkname">'+ val.KK +'</p></div>';
-					 outputbanner +='<p>'+ val.Explain +'</p>';
-					 outputbanner +='<p>'+ val.CreateDate +'</p>';
-					 outputbanner +='<a href = '+val.VoiceLink+'>VoiceLink</a>';
-					
+					if(val.Word === l){
+
+
+							  if(val.Remark != ''){
+							  	output += ' <li class="icon fa-flag-o">' ;
+							  	output += '<p>' + val.Remark + '</p>';
+							   	output += '</li>';
+							  }
+					    	if(val.Sentence != ''){
+					    		output += ' <li class="icon fa-flag-o">' ;
+						  		output += '<p>' + val.Sentence + '</p>';
+					   			output += '</li>';
+					    	}
+					    	if(val.image != ''){
+					    		output += ' <li class="icon fa-flag-o">' ;
+						  		output += '<img src='+val.image+' alt="" />';
+					   			output += '</li>';
+					    	}
+								
+							  outputbanner +='<h2>'+ val.Word +'</h2>';
+							 if(val.KK !=='')
+							  	outputbanner +='<div id= "kkname">'+ val.KK +'</p></div>';
+							  if(val.Explain !== '')
+						 		outputbanner +='<p>'+ val.Explain +'</p>';
+							 if(val.CreateDate !== '')
+							 	outputbanner +='<p>'+ val.CreateDate +'</p>';
+							 if(val.VoiceLink !=='')
+							 	outputbanner +='<a href = '+val.VoiceLink+'>VoiceLink</a>';
+
+							 	 if(val.WordType !=='')
+						 	 		outputbanner +='<input type="hidden" id = "wType" value= '+val.WordType+'>';
+							 		//<input type="hidden" id="postId" name="postId" value="34657">
+								 isfind = true;
+						}	
 				}
+
+				if(isfind === true)
+					return false;
 			  });
 			  output += '</ul>';
 			  $('#three .inner').html(output);
