@@ -96,96 +96,122 @@ var outputbanner = ''
 	    // Retrieve
 	  var _lastWord =   localStorage.getItem("lastWord");
 	   var _lastWordType=  localStorage.getItem("lastWordType");
-	   var _lastTime =  localStorage.getItem("lastTime");
+	   var _lastTime =  localStorage.getItem("lastTimeWord");
  		outputbanner = '';
  		if (_lastWord === '' && _lastWordType ==='' && _lastTime===''){
- 			outputbanner += '<h3>Review English</h3>';
+ 			outputbanner += '<h3>No Record</h3>';
  		}else{
  			if(_lastWord !== ''){
-
+ 				outputbanner += '==============================='
  				switch(_lastWordType){
- 					case 'S':
-	 					outputbanner += '<h3>Last reading word: ' ;
-					
-					  outputbanner += '<a href="DetailS.html?name=' + _lastWord + '">'+ _lastWord +'</a>';
-					   outputbanner += '</h3></br>';
-
-	 					 outputbanner += '<h3>go to List:' ;
-					  outputbanner += '<a href="Sentence.html?#' + _lastWord+'">'+ _lastWord + '</a>'
-					   outputbanner += '</h3></br>';
-					   break;
+ 					
 					 case 'W':
-	 					outputbanner += '<h3>Last reading word: ' ;
+	 					outputbanner += '<p>Last reading word: ' ;
 					 // outputbanner += '<a name ='+ _lastWord +'></a>'
 					  outputbanner += '<a href="Detail.html?name=' + _lastWord + '">'+ _lastWord +'</a>';
-					   outputbanner += '</h3></br>';
+					   outputbanner += '</p>';
 
 					   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
-	 					 outputbanner += '<h3>go to List:' ;
+	 					 outputbanner += '<p>go to List:' ;
 					  //outputbanner += '<a name ='+ _lastWord +'></a>'
 					  outputbanner += '<a href="word.html?#' + _lastWord+'">'+ _lastWord + '</a>'
-					   outputbanner += '</h3></br>';
+					   outputbanner += '</p>';
 					   break;
-					  case 'P' :
-							outputbanner += '<h3>Last reading word: ' ;
-						 // outputbanner += '<a name ='+ _lastWord +'></a>'
-						  outputbanner += '<a href="Detail.html?name=' + _lastWord + '">'+ _lastWord +'</a>';
-						   outputbanner += '</h3></br>';
-
-						   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
-		 					 outputbanner += '<h3>go to List:' ;
-						  //outputbanner += '<a name ='+ _lastWord +'></a>'
-						  outputbanner += '<a href="phase.html?#' + _lastWord+'">'+ _lastWord + '</a>'
-						   outputbanner += '</h3></br>';
-						   break;
-
-
+					
 
  				}
- 				/*if(_lastWordType ==='S'){
- 					//outputbanner += '<h3>'+ _lastWord +'</h3>';
- 					 outputbanner += '<h3>Last reading word: ' ;
-				 // outputbanner += '<a name ='+ _lastWord +'></a>'
-				  outputbanner += '<a href="DetailS.html?name=' + _lastWord + '"</a>'+ _lastWord
-				   outputbanner += '</h3></br>';
-
-				   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
- 					 outputbanner += '<h3>List : ' ;
-				  //outputbanner += '<a name ='+ _lastWord +'></a>'
-				  outputbanner += '<a href="Sentences.html?#' + _lastWord+'>'+ _lastWord + '"</a>'
-				   outputbanner += '</h3></br>';
-
-
- 				}else
- 				{
- 					//outputbanner += '<h3>'+ _lastWord +'</h3>';
- 					 outputbanner += '<h3>Last reading word: ' ;
-				 // outputbanner += '<a name ='+ _lastWord +'></a>'
-				  outputbanner += '<a href="Detail.html?name=' + _lastWord + '">'+ _lastWord +'</a>';
-				   outputbanner += '</h3></br>';
-
-				   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
- 					 outputbanner += '<h3>List :' ;
-				  //outputbanner += '<a name ='+ _lastWord +'></a>'
-				  outputbanner += '<a href="Word.html?#' + _lastWord+'">'+ _lastWord + '</a>'
-				   outputbanner += '</h3></br>';
- 				}*/
+ 				
  				
  			}
  			
- 			if(_lastTime !==''){
- 				 outputbanner += '<h3>Last reading time: ' ;
+ 			if(_lastTime !=='' && _lastTime!=null){
+ 				 outputbanner += '<p>reading time: ' ;
 				  //outputbanner += '<a name ='+ _lastWord +'></a>'
 				  outputbanner +=  _lastTime ;
-				   outputbanner += '</h3></br>';
+				   outputbanner += '</p>';
  			}
 
  		}
-	   // <h3>
-		//	<a href="Word.html?#upstairs">condominium</a>
-		//</h3>
-
+	  
 		
+
+		var _lastPhase =   localStorage.getItem("lastphase");
+	   var _lastPhaseType=  localStorage.getItem("lastphaseType");
+	   var _lastTimePhase =  localStorage.getItem("lastTimePhase");
+ 		//outputbanner = '';
+ 		if (_lastPhase == '' && _lastPhaseType =='' && _lastTimePhase==''){
+ 			outputbanner += '<h3>No Record</h3>';
+ 		}else{
+ 			if(_lastWord !== ''){
+ 				outputbanner += '==============================='
+ 				switch(_lastPhaseType){
+ 					
+					  case 'P' :
+							outputbanner += '<p>Last reading phase: ' ;
+						 // outputbanner += '<a name ='+ _lastWord +'></a>'
+						  outputbanner += '<a href="Detail.html?name=' + _lastPhase + '">'+ _lastPhase +'</a>';
+						   outputbanner += '</p>';
+
+						   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
+		 					 outputbanner += '<p>go to List:' ;
+						  //outputbanner += '<a name ='+ _lastWord +'></a>'
+						  outputbanner += '<a href="phase.html?#' + _lastPhase+'">'+ _lastPhase + '</a>'
+						   outputbanner += '</p>';
+						   break;
+
+ 				}
+ 				
+ 				
+ 			}
+ 			
+ 			if(_lastTimePhase !=='' && _lastTimePhase != null){
+ 				 outputbanner += '<p>reading time: ' ;
+				  //outputbanner += '<a name ='+ _lastWord +'></a>'
+				  outputbanner +=  _lastTimePhase ;
+				   outputbanner += '</p>';
+ 			}
+
+ 		}
+
+
+
+		var _lastSentence =   localStorage.getItem("lastSentence");
+	   var _lastSentenceType=  localStorage.getItem("lastSentenceType");
+	   var _lastTimeSentence =  localStorage.getItem("lastTimeSentence");
+ 		//outputbanner = '';
+ 		if (_lastSentence === '' && _lastSentenceType ==='' && _lastTimeSentence===''){
+ 			outputbanner += '<h3>No Record</h3>';
+ 		}else{
+ 			if(_lastSentenceType !== ''){
+				outputbanner += '==============================='
+ 				switch(_lastSentenceType){
+ 					case 'S':
+	 					outputbanner += '<p>Last reading sentence: ' ;
+					
+					  outputbanner += '<a href="DetailS.html?name=' + _lastSentence + '">'+ _lastSentence +'</a>';
+					   outputbanner += '</p>';
+
+	 					 outputbanner += '<p>go to List:' ;
+					  outputbanner += '<a href="Sentence.html?#' + _lastSentence+'">'+ _lastSentence + '</a>'
+					   outputbanner += '</p>';
+					   break;
+				
+					
+
+ 				}
+ 				
+ 				
+ 			}
+ 			
+ 			if(_lastTimeSentence !=='' && _lastTimeSentence != null){
+ 				 outputbanner += '<p>reading time: ' ;
+				  //outputbanner += '<a name ='+ _lastWord +'></a>'
+				  outputbanner +=  _lastTimeSentence ;
+				   outputbanner += '</p>';
+ 			}
+
+ 		}
+
 
 	} else {
 	    document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage...";

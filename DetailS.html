@@ -76,14 +76,14 @@
 	// localStorage.setItem("lastWord");
 	  // localStorage.setItem("lastWordType");
 	  //localStorage.setItem("lastTime");
-	      localStorage.lastWord = $('#banner .inner h2').text();
-	   localStorage.lastWordType = 'S';
+	      localStorage.lastSentence = $('#banner .inner h2').text();
+	   localStorage.lastSentenceType = 'S';
 	       var d = new Date().getDate();
 	    var m = new Date().getMonth() + 1; //Month from 0 to 11
 	    var y = new Date().getFullYear();
 	    
 
-	  localStorage.lastTime = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+	  localStorage.lastTimeSentence = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 }
 
 	var parameters = location.search.substring(1).split("&");

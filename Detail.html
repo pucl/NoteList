@@ -72,14 +72,31 @@
 	// localStorage.setItem("lastWord");
 	  // localStorage.setItem("lastWordType");
 	  //localStorage.setItem("lastTime");
-	   localStorage.lastWord = $('#banner .inner h2').text();
-	   localStorage.lastWordType = $('#wType').val();
+	  var _type = $('#wType').val();
+	  if(_type == 'W'){
+
+		   localStorage.lastWord = $('#banner .inner h2').text();
+		   localStorage.lastWordType = $('#wType').val();
+		    var d = new Date().getDate();
+		    var m = new Date().getMonth() + 1; //Month from 0 to 11
+		    var y = new Date().getFullYear();
+		    
+
+		  localStorage.lastTimeWord = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+
+	  }else{
+
+  		localStorage.lastphase = $('#banner .inner h2').text();
+	   	localStorage.lastphaseType = $('#wType').val();
 	    var d = new Date().getDate();
 	    var m = new Date().getMonth() + 1; //Month from 0 to 11
 	    var y = new Date().getFullYear();
 	    
 
-	  localStorage.lastTime = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+	  	localStorage.lastTimePhase = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+	  }
+
+	   
 
 }
 
