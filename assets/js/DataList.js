@@ -20,11 +20,11 @@ var DataList= [
         "Word":"upstairs",
         "Explain":"樓上的",
         "Sentence":"",
-        "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=upstairs",
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/upstairs",
         "Remark":"downstaits 樓下的 <br> basement 地下室 <br> attic[ˋætɪk] 閣樓 <br> "
         		+ "hall[hɔl] 玄關 <br> chimney[ˋtʃɪmnɪ] 煙囪 <br>fence[fɛns] 圍籬",
         "CreateDate":"2018/3/23",
-        "KK":"ˋʌpˋstɛrz",
+        "KK":"[ˋʌpˋstɛrz]",
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":"assets/css/images/PlayIcon.png"
@@ -35,7 +35,7 @@ var DataList= [
         "Word":"house",
         "Explain":"獨門獨院",
         "Sentence":"",
-        "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=house",
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/house",
         "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -52,7 +52,7 @@ var DataList= [
         "Word":"townhouse",
         "Explain":"連動式房屋-共同隔牆",
         "Sentence":"",
-          "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=townhouse",
+          "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/townhouse",
           "Remark":"apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -68,7 +68,7 @@ var DataList= [
         "Word":"apartment",
         "Explain":"公寓-共同門口",
         "Sentence":"",
-          "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=apartment",
+          "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/apartment",
          "Remark":"townhouse(連動式房屋-共同隔牆) <br>  condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -84,7 +84,7 @@ var DataList= [
         "Word":"condominium",
         "Explain":"公寓-獨立門口= condo",
         "Sentence":"",
-        "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=condominium",
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/condominium",
          "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> "
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -100,7 +100,7 @@ var DataList= [
         "Word":"farmhouse",
         "Explain":"農舍",
         "Sentence":"",
-		"VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=farmhouse",
+		"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/farmhouse",
          "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ " cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -116,7 +116,7 @@ var DataList= [
         "Word":"cabin",
         "Explain":"小木屋",
         "Sentence":"",
-        "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=cabin",
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/cabin",
         
          "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
@@ -133,7 +133,7 @@ var DataList= [
         "Word":"houseboat",
         "Explain":"船屋",
         "Sentence":"荷蘭多",
-       "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=houseboat",
+       "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/houseboat",
          "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br>  bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -151,7 +151,7 @@ var DataList= [
         "Word":"bungalow",
         "Explain":"平房",
         "Sentence":"",
-        "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=bungalow",
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/bungalow",
         "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> "
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -169,7 +169,7 @@ var DataList= [
         "Word":"duplex",
         "Explain":"雙層公寓/聯式房屋",
         "Sentence":"",
-        "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=duplex",
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/duplex",
         "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ " mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -186,7 +186,7 @@ var DataList= [
         "Word":"mansion",
         "Explain":"豪宅",
         "Sentence":"",
-         "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=mansion",
+         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/mansion",
         "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
@@ -203,7 +203,7 @@ var DataList= [
         "Word":"mobile home / trailer",
         "Explain":"如露營車",
         "Sentence":"",
-         "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=trailer",
+         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/trailer",
         "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> skyscraper(摩天大樓)"
@@ -220,7 +220,7 @@ var DataList= [
         "Word":"skyscraper",
         "Explain":"摩天大樓",
         "Sentence":"",
-         "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=skyscraper",
+         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/skyscraper",
         "Remark":"townhouse(連動式房屋-共同隔牆) <br> apartment(公寓-共同門口) <br> condominium[ˋkɑndə͵mɪnɪəm](公寓-獨立門口) = condo <br>"
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br>"
@@ -249,9 +249,9 @@ var DataList= [
       {
         "WordType":"W",
         "Word":"fantastic",
-        "Explain":"口】極好的，了不起的",
+        "Explain":"極好的，了不起的",
         "Sentence":"",
-          "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=fantastic",
+          "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/fantastic",
         "Remark":""
         ,
         "CreateDate":"2018/3/23",
@@ -269,7 +269,7 @@ var DataList= [
         +"<br><br>travel(v.): I plan to travel to Taipei. <br> tour(v.):I plan to tour to Taipei."
         +"<br> I plan to go travelling to Taipei. <br> I plan to go touring to Taipei."
         ,
-        "VoiceLink":"https://tw.dictionary.search.yahoo.com/search?p=trip",
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/trip",
         "Remark":"take a trip = go on a trip <br> "
         ,
         "CreateDate":"2017/8/29",
