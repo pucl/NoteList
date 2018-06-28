@@ -1,0 +1,111 @@
+
+-- ================  P  ==================
+think about
+ex:what do you think about store?
+
+on duty
+off duty
+load up 
+
+a spoonful of 
+
+lunch break
+
+tub
+ex:a big tub
+
+get in trouble
+ex:he is in trouble = he gets in trouble
+
+on TV
+on the TV
+
+-- ================  P  ==================
+
+
+
+
+-- ================  W  ==================
+
+
+apologize
+
+
+fish
+wheat
+muffin
+order
+ex:take an order.
+
+recommend
+delicious
+=yummy
+=tasty
+
+
+vender
+
+half
+Belgium
+maple syrup
+waffle
+
+box
+ex:sixteen boxes
+
+bunches
+ex:five bunches
+
+
+
+fudge 
+ex:chocoloate fudge
+
+light
+crispy
+cream
+ex: whipped cream
+
+fried chicken
+
+lunch box
+torta
+kimchi
+
+flour
+
+chewy
+
+Italian
+
+taco
+burrito
+
+kebab
+
+waited [id]
+
+-- ================  W  ==================
+
+
+-- ================  S  ==================
+can I get coffee ?
+=can I have coffee ?
+=could I get coffee?
+=could I have coffee?
+
+what goods here ?
+
+grab a waffle.
+
+about half of banana.
+
+Do not talk to me!
+
+angry with you
+
+
+I know = I relize
+
+-- ================  S  ==================
+	
