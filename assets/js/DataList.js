@@ -436,10 +436,10 @@ var DataList= [
        "WordType":"S",
         "Word":"What are they?",
         "Explain":"有哪些",
-        "Sentence":"A:They are Chinese, Taiwanese and Japaness."
+        "Sentence":""
         ,
         "VoiceLink":"",
-        "Remark":""
+        "Remark":"A:They are Chinese, Taiwanese and Japaness."
         ,
         "CreateDate":"2017/08/07",
         "KK":"",
@@ -452,10 +452,10 @@ var DataList= [
        "WordType":"S",
         "Word":"Take a seat , Please",
         "Explain":"請坐下",
-        "Sentence":"= Please be seated! (v.+pp)"
+        "Sentence":""
         ,
         "VoiceLink":"",
-        "Remark":""
+        "Remark":"= Please be seated! (v.+pp)"
         ,
         "CreateDate":"2017/08/07",
         "KK":"",
@@ -617,10 +617,10 @@ var DataList= [
        "WordType":"S",
         "Word":"What do you do ?",
         "Explain":"你是做什麼工作的",
-        "Sentence":"I work as a teacher."
+        "Sentence":""
         ,
         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/bilingua",
-        "Remark":""
+        "Remark":"I work as a teacher."
         ,
         "CreateDate":"2017/08/07",
         "KK":"",
@@ -632,10 +632,10 @@ var DataList= [
        "WordType":"S",
         "Word":"Who is the best person for the job ?",
         "Explain":"這份工作誰是最好的",
-        "Sentence":"A: I would pick(choose) + 人名(Mary)  我選擇Mary"
+        "Sentence":""
         ,
         "VoiceLink":"",
-        "Remark":""
+        "Remark":"A: I would pick(choose) + 人名(Mary)  我選擇Mary"
         ,
         "CreateDate":"2017/08/07",
         "KK":"",
