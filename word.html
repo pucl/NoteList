@@ -30,6 +30,7 @@
 											<li><a href="Sentence.html">Sentences</a></li>
 											<li><a href="phase.html">Phases</a></li>
 											<li><a href="search.html">Search</a></li>
+											<li><a href="setting.html">setting</a></li>
 										</ul>
 									</div>
 								</li>
@@ -77,16 +78,65 @@
 
 <script type="text/javascript">
 	
-
 $(document).ready(function(){
 
-	DataList.sort( function(a, b){   
-		 return ((a.Word < b.Word) ? -1 : ((a.Word > b.Word) ? 1 : 0));
+ var _sortType =  localStorage.getItem("sortType");
+	if (_sortType == '' || _sortType == 'undefined' || _sortType == undefined )
+		_sortType = '01';
+		
+	switch(_sortType){
+		case "01":
+
+			break;
+		case "02":
+
+			break;
+		case "03":
+			DataList.sort( function(a, b){   
+				return ((a.Word < b.Word) ? -1 : ((a.Word > b.Word) ? 1 : 0));
+
+			break;
+
+	}
+
+	//DataList.sort( function(a, b){   
+	//	 return ((a.Word < b.Word) ? -1 : ((a.Word > b.Word) ? 1 : 0));
+
+
+
+
 //return (a["Word" ]) > (b["Word" ]) ? 1 : (a[ "Word"]) == (b[ "Word" ]) ? 0 : -1;   
 });  
  // var regex = new RegExp(searchField, "i");
+
+	 var _SettingShowChinese =  localStorage.getItem("SettingShowChinese");
+
+	 if(_SettingShowChinese == '' || _SettingShowChinese == 'undefined' || _SettingShowChinese == undefined )
+			_SettingShowChinese = 'N';
+		
+	   //show chinese
+	   //
+	   if(_SettingShowChinese  == "Y")
+	   {
+
             var output = '<header class="major">';
             var outputbanner = ''
+            var count = 1;
+			  $.each(DataList, function(key, val){
+				if ((val.WordType == 'W')) {
+				
+				  output += '<p>' ;
+				  output += '<a name ='+ val.Word +'></a>'
+				  output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word + ' '  + val.KK + ' '  + val.Explain 
+				   output += '</p></br>';
+				
+				}
+			  });
+		}else
+		{
+			//only show english
+			var output = '<header class="major">';
+			var outputbanner = ''
             var count = 1;
 			  $.each(DataList, function(key, val){
 				if ((val.WordType == 'W')) {
@@ -98,16 +148,42 @@ $(document).ready(function(){
 				
 				}
 			  });
-			  output += '</header>';
-			  $('#one .inner').html(output);
+
+		}
+		output += '</header>';
+		$('#one .inner').html(output);
 			 
-
-
-
 });
-
-
 </script>
 
 
 </html>
+
+
+
+
+
+/*	DataList.sort( function(a, b){   
+		 return ((a.Word < b.Word) ? -1 : ((a.Word > b.Word) ? 1 : 0));
+  
+});  
+
+	//increse link work
+    var output = '<header class="major">';
+    var outputbanner = ''
+    var count = 1;
+		$.each(DataList, function(key, val){
+		if ((val.WordType == 'W')) {
+				
+			output += '<p>' ;
+			output += '<a name ='+ val.Word +'></a>'
+			output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
+			output += '</p></br>';
+				
+		}
+		});
+		output += '</header>';
+		$('#one .inner').html(output);
+
+		*/
+
