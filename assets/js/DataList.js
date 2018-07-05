@@ -9,10 +9,10 @@ var DataList= [
         "Sentence":"",
         "VoiceLink":"",
         "Remark":"",
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"",
         "Flag":"N",
-        "ReadDate":"2018/3/23",
+        "ReadDate":"2017/03/28",
         "image":"assets/css/images/PlayIcon.png"
       },
       {
@@ -23,10 +23,10 @@ var DataList= [
         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/upstairs",
         "Remark":"downstaits 樓下的 <br> basement 地下室 <br> attic[ˋætɪk] 閣樓 <br> "
         		+ "hall[hɔl] 玄關 <br> chimney[ˋtʃɪmnɪ] 煙囪 <br>fence[fɛns] 圍籬",
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[ˋʌpˋstɛrz]",
         "Flag":"N",
-        "ReadDate":"2018/3/23 上午 12:00:00",
+        "ReadDate":"2017/03/28",
          "image":"assets/css/images/PlayIcon.png"
       }
       ,
@@ -40,7 +40,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"",
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
@@ -57,7 +57,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"",
         "Flag":"N",
         "ReadDate":"2018/3/23",
@@ -73,7 +73,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[əˋpɑrtmənt]",
         "Flag":"N",
         "ReadDate":"2018/3/23",
@@ -89,7 +89,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[ˋkɑndə͵mɪnɪəm]",
         "Flag":"N",
         "ReadDate":"2018/3/23",
@@ -105,7 +105,7 @@ var DataList= [
         	+ " cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[͵fɑrm͵haʊs]",
         "Flag":"N",
         "ReadDate":"2018/3/23",
@@ -122,7 +122,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"/ˈkæbən/",
         "Flag":"N",
         "ReadDate":"2018/3/23",
@@ -138,7 +138,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br>  bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[ˋhaʊs͵bot]",
         "Flag":"N",
         "ReadDate":"2018/3/23",
@@ -156,7 +156,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> "
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[ˋbʌŋgə͵lo]",
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
@@ -174,7 +174,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ " mansion(豪宅) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[ˋdjuplɛks]",
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
@@ -191,7 +191,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mobile home / trailer (如露營車) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"ˋmænʃən]",
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
@@ -208,7 +208,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> skyscraper(摩天大樓)"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[ˋtrelɚ]",
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
@@ -225,7 +225,7 @@ var DataList= [
         	+ "farmhouse(農舍) <br> cabin(小木屋) <br> houseboat(船屋) 荷蘭多 <br> bungalow(平房) <br>"
         	+ "duplex(雙層公寓/聯式房屋) <br> mansion(豪宅) <br> mobile home / trailer (如露營車) <br>"
         ,
-        "CreateDate":"2018/3/23",
+        "CreateDate":"2017/03/28",
         "KK":"[ˋskaɪ͵skrepɚ]",
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
@@ -684,6 +684,578 @@ var DataList= [
         ,
         "CreateDate":"2017/08/07",
         "KK":"[ˈkaʊn.səl.ɚ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"How have you been?",
+        "Explain":"最近如何",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":" = What's up ?"
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"P",
+        "Word":"run into ",
+        "Explain":"巧遇;不期而遇",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/run-into-sb?q=ran%2Binto",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"multinational",
+        "Explain":"跨國;跨國的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/multinational",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"[ˌmʌl.tiˈnæʃ.ən.əl]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"freelance",
+        "Explain":"自由職業",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/freelance",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"[ˈfriː.læns]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"P",
+        "Word":"fell in love",
+        "Explain":"熱戀",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"P",
+        "Word":"on the road",
+        "Explain":"奔波在外，在旅途中",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/road?q=on%2Bthe%2Broad",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"dump",
+        "Explain":"分手;被耍了",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/dump?q=DUMP",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"[dʌmp]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"disturb",
+        "Explain":"打斷；干擾",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/disturb?q=DISTURB",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"[dɪˈstɝːb]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"reception",
+        "Explain":"接待",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/reception?q=RECEPTION",
+        "Remark":" reception desk 招待櫃台"
+        ,
+        "CreateDate":"2017/08/09",
+        "KK":"[rɪˈsep.ʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"I get tired",
+        "Explain":"我好累",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"= I am tired. <br>= I become tired."
+        ,
+        "CreateDate":"2017/03/27",
+        "KK":"[rɪˈsep.ʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What do you (like) do in your free time?",
+        "Explain":"空閒時間你做什麼",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"When do you have free time? 什麼時間有空閒時間 <br>what's your hobby? 你的嗜好是什麼? <br> what are your hobbies?你的嗜好有什麼"
+        ,
+        "CreateDate":"2017/03/27",
+        "KK":"[rɪˈsep.ʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"hobby",
+        "Explain":"嗜好",
+        "Sentence":"what do you do today?今天做了什麼 <br>what hobby do you do today?今天做了什麼嗜好"
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/hobby",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/27",
+        "KK":"[ˈhɑː.bi]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"wonder",
+        "Explain":"疑惑",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/wonder",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/27",
+        "KK":"[ˈwʌn.dɚ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"blonde",
+        "Explain":"金色的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/blonde",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/27",
+        "KK":"[blɒnd]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"P",
+        "Word":"be angry with ",
+        "Explain":"對..生氣",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"I'm angry with n.(人事物)"
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"How about",
+        "Explain":"+建議",
+        "Sentence":"How about Friday?星期五如何"
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"I can make it",
+        "Explain":"達成",
+        "Sentence":"I can't make it"
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"pool",
+        "Explain":"撞球;泳池",
+        "Sentence":"I can't make it"
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/pool?q=POOL",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[puːl]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"Is this seat taken?",
+        "Explain":"這個位子可以坐嗎",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"juggle",
+        "Explain":"耍",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/juggle",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[ˈdʒʌɡ.əl]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"Vietnamese",
+        "Explain":"越南人;越南語",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/vietnamese?q=VIETNAMESE",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[vjet.nəˈmiːz]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"bounce",
+        "Explain":"彈",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/bounce?q=BOUNCE",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[baʊns]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"table tennis",
+        "Explain":"桌球",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/table-tennis",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"P",
+        "Word":"all over the world",
+        "Explain":"遍及全世界",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"all over the Taiwan 遍及全台灣"
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"A,B and C all happen on Wednesday night",
+        "Explain":"ABC皆發生在星期三晚上",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What an amazing view!",
+        "Explain":"多麼棒的景色",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"amazingly(adv) -->(修飾)  enormous(adj)巨大"
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"enormous",
+        "Explain":"巨大的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/enormous",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[əˈnɔːr.məs]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"trick",
+        "Explain":"騙局；詭計；惡作劇;秘訣；技巧",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/trick?q=TRICK",
+        "Remark":"trick(搗蛋) or treat  (for 萬聖節:不給糖就搗蛋)"
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[trɪk]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"imitate",
+        "Explain":"模仿",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/imitate",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[ˋɪmə͵tet]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"silk",
+        "Explain":"絲綢",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/silk",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[sɪlk]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"silky",
+        "Explain":"絲綢一樣的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/silky",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[ˋsɪlkɪ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"competition",
+        "Explain":"競賽，比賽",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/competition",
+        "Remark":"competition(singing)<>br>=contest(football)"
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"[͵kɑmpəˋtɪʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"Do you buy it?",
+        "Explain":"你相信嗎",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"= Do you believe"
+        ,
+        "CreateDate":"2017/08/15",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"Is there anything to eat?",
+        "Explain":"有食物吃嗎",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/28",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"compound",
+        "Explain":"場地，樓群，院落;化合物",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/compound",
+        "Remark":"three-section(adj) compound 三合院"
+        ,
+        "CreateDate":"2017/03/28",
+        "KK":"[kɑmˋpaʊnd]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"what kind of housing/home do you live in?",
+        "Explain":"你住什麼樣式的房子",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"How many bedrooms does it have? 有幾間房間 <br>Is your home large or small? 你家大還小"
+        +"<br>Is your home one-story or two?你家幾樓<br>Do you have a yard or balcony?你家有陽台或庭院嗎"
+        +"<br>Do you like your home? 你喜歡你家嗎<br>It's a 50-story building.這棟建築物有50樓高<br>It has 50 stories.這棟有50層樓"
+        ,
+        "CreateDate":"2017/03/28",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"How are you doing?",
+        "Explain":"打招呼",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"= How's it going?<br>= Hi<br>= What's up?"
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What kind of the movie was that?",
+        "Explain":"什麼類型的電影",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"A: comedy 喜劇片"
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"",
         "Flag":"N",
         "ReadDate":"",
          "image":""
