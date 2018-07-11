@@ -1,0 +1,718 @@
+
+-- ================  P  ==================
+think about
+ex:what do you think about store?
+
+on duty
+off duty
+load up 
+
+a spoonful of 
+
+lunch break
+
+tub
+ex:a big tub
+
+get in trouble
+ex:he is in trouble = he gets in trouble
+
+on TV
+on the TV
+
+-- ================  P  ==================
+
+
+
+
+-- ================  W  ==================
+
+
+apologize
+
+
+fish
+wheat
+muffin
+order
+ex:take an order.
+
+recommend
+delicious
+=yummy
+=tasty
+
+
+vender
+
+half
+Belgium
+maple syrup
+waffle
+
+box
+ex:sixteen boxes
+
+bunches
+ex:five bunches
+
+
+
+fudge 
+ex:chocoloate fudge
+
+light
+crispy
+cream
+ex: whipped cream
+
+fried chicken
+
+lunch box
+torta
+kimchi
+
+flour
+
+chewy
+
+Italian
+
+taco
+burrito
+
+kebab
+
+waited [id]
+
+-- ================  W  ==================
+
+
+-- ================  S  ==================
+can I get coffee ?
+=can I have coffee ?
+=could I get coffee?
+=could I have coffee?
+
+what goods here ?
+
+grab a waffle.
+
+about half of banana.
+
+Do not talk to me!
+
+angry with you
+
+
+I know = I relize
+
+-- ================  S  ==================
+	
+
+
+
+
+
+
+
+
+	awesome
+	excellent
+	extraordinary
+	fantastic
+	fabulous
+	good
+	great
+	gorgeous
+	lovely
+	magnificent
+	marvellous
+	nice
+	outstanding
+	perfect
+	remarkable
+	superb
+	splendid
+	superior
+	supreme /s prim 
+	terrific
+	tremendous
+	wodnderful
+	fine
+	epic
+	incredible
+	standout
+	spectacular /spek te
+	neat /nit/
+
+
+	what movie do you want to see ? 
+	what do you wnat to ...?
+	=How about + v-ing ?   ex: How about going dancing with me ?
+	=Do you feel like + v-ing?
+	=Let's go to + v
+	=Why don't we ....?
+
+	 have a party 
+	 = hold a party
+
+	 That sounds fun
+	 =That looks fun. 
+
+	 I'm occupied
+	 = I'm not free
+	 = I'm not available
+	 = I'm? cant't make it ??
+
+
+	 It's fine with me ?
+
+	 
+	 I don't think so 
+	 = I disagree
+
+
+
+	 fine 
+	 positive
+	 negative
+	 occupy
+
+	 some other time(day)
+
+	 come over
+	 ex: Would you like to come over?
+
+	 refuse
+	 =reject
+
+	 1 person
+	 2 persons 
+
+	 2 people
+	 100 people
+
+
+
+	 have a dental appointment
+	 = make a dential appointment
+
+	 see you then
+
+	 some other time then
+
+
+	 I would love to 
+	 = I would like to
+
+
+
+	 Let's go after work
+	 Let's go coffer after class
+
+	 I'm going away for the weekend
+
+	 want to come?
+
+	 It's 20 past 9 = 9:20
+	 It's 15 to 10  = 9:45
+	 It's (a) quater to 10 = 9:45
+
+
+	 approximately
+	 =around
+	 =about
+	 =almost
+	 =nearly
+
+
+
+	 I'm not doing something(anything) special(good)
+
+
+	 What do you feel like eating for dinner?
+	 =What do you want to eat for dinner?
+	 = What would you like to eat for dinner?
+
+	 That's kind of you to offer
+
+
+	 vegetarian
+
+	 sick of  +  n/v-ing
+	 tire of  +  n/v-ing
+
+
+	 wardrobe
+	 =colset
+
+
+	 faster seat belt
+	 unfaster seat belt = undo seat belt
+
+	 wear = put on 
+
+
+	 about to + v
+	 Are we about to land?
+
+	 compartment
+
+
+	 leave for 
+	 =go to
+
+	 Did you leave the water running?
+
+	 I've been working in(at) school for 3 years.
+
+	 I'm appreciate that
+
+	 realize 
+	 = understand
+	=I know
+
+
+	 She is going to be 60 this year
+	 =She is going to turn 60 this year
+	 =She is turning 60 this year
+
+
+
+	 something + adj
+	 anything + adj
+	 
+	 ex:something special(adj)
+
+
+	 upcoming + n 
+	 =approaching + n
+
+	 ex: Typhoon is upcoming = upcoming typhoon
+
+
+	 She is difficult to satisify
+
+	 What is your job?
+	 (x) What is your work?
+
+	 sick leave
+	 personal leave
+
+	 colleague = co-worker
+
+	 salary
+	 wage
+
+
+	 sense of achievement
+	 sense of humor
+
+	 job security
+
+	benefit
+
+	year-end bouns
+	year-end party
+
+	architect
+
+	instructor 
+	=teacher
+
+	instruction
+
+	hairdresser
+	=hair stylist
+	=hair designer
+
+	barber (men)
+	barber shop 
+	go to a barber(men)
+
+
+	temper
+
+	He has bad temper
+	bad-tempered
+	ex:He is bad-tempered
+
+	left-handed
+	one-eyed
+
+
+	must be 
+
+
+	on the feet all day
+	=on my feet all day
+
+
+	all the time
+	ex:stay in hotel all the time
+
+	home cooking
+
+
+
+
+	Do you mean " can or can't "?
+
+	donation
+
+	I'll take my son to school
+
+	cube
+
+	contest
+	=competition
+
+	fee
+	entrance fee
+
+	bargain
+
+	How much is this t-shirt?
+	=How much does this t-shirt cost?
+
+	How much are these pants?
+	=How much do these pants cost?
+
+	How much are those shoes?
+	=How much do those shoes cost?
+
+
+	Can you give me a discount?
+	Can you give me a better price?
+	I'll buy it if it were cheaper. 
+	I'll buy these(them) if they were cheaper. 
+	What's the lowest you are willing to go ?
+
+	S be willing to V
+
+	chart
+
+	necktie = tie
+
+	try on
+	try t-shirt on 
+
+	I'm just looking (around)
+
+	take a look 
+
+	I'll think about it
+
+	What can I do for you?
+	=Can I help you?
+	=May I help you?
+
+	It was $45
+	It is $45
+
+
+	a bottle of 
+
+	can
+
+	That's two bottle for a dollar.    2bottle 1$
+
+	That comes to $30
+	=That is $30,altogether.
+
+	altogether
+
+	Is this all?(book+newpaper)
+	Is that all?(book+newpaper)
+
+	book($50) will cost another newpaper $30.  $50 + $30
+
+	What you've got
+
+	The color suits you
+	=The color fits you
+
+	The t-shit goes well with your hat.
+
+	When it comes to jobs,what do you have in mind?
+	When it comes to movies,what do you have in mind?
+
+	persionality
+	=characteristic
+
+	mean
+
+	good points
+	bad points
+
+	atmosphere
+
+	complain
+	complaint
+
+	in the middle of big project
+	in the middle of big assignment
+
+	big
+	=huge
+	=titanic
+	=gigantic
+	=enormous
+	
+
+	mechanic n
+	mechnical adj
+
+	completely diffenent
+
+	enjoy + v-ing
+
+	work on
+	ex:work on cars
+
+	automobile shop
+
+	commute
+	ex:Commute is the worst part.
+	It kind of makes up for it(cimmute)
+
+	Not at all friendly
+
+	a bit
+	=a little
+	=a little bit
+
+
+	What's it(n) like ?
+
+	How do you like Mary?
+
+	What's job like ?
+	It's tiring work.(no s)
+
+	lay off
+	=fire
+	=can
+
+	I get fired
+	=I get canned
+
+	bakery
+	bake(v)
+	baker(n)
+
+	hop (jump)
+
+	bellhop (reception of in front of hotle gate) 
+
+
+	luggage   (no s)
+	=baggage  (no s)
+
+
+	tower
+
+	towel
+
+	cafe
+	=coffee house
+	=coffee shop
+
+	senior  (old co-worker)  
+	green horn (new co-worker)
+
+
+	carry bags
+
+	before long
+	=soon
+
+
+	promotion
+	I just get promoted
+
+
+	answer the phone
+
+	an appointment(s)
+
+	Where do you work?
+
+
+	I'm with w hotel
+
+
+	actually
+	=In fact
+
+	cash
+	=cashier
+	=cash register
+
+	How long have you been working ?
+	I've been working in(at) school for 3 years.
+
+
+	What kind of work do you do ? 
+
+	I work for online newpaper.
+
+	I am a teacher
+	=I work as a teacher
+
+	on the load
+	I'm on the load a lot (like sales)
+
+
+	however 
+	= but
+
+
+	not quite 
+	= No
+
+	quiet
+
+
+	and so on
+	=and so forth
+
+	It doesn't pay much
+
+	drive + person
+
+	Have you read(p.p) any my story?
+
+	It's a 101-story skyscraper. 101
+
+	celebrity
+
+	autograph(n/v)   celebrith sign in
+	Can I have your autograph? 
+
+	sign  (normal people)
+	=signature
+
+	not .. anymore ..
+	He doesn't work anymore
+	He is not kid anymore
+
+
+	rent
+
+	expensive
+	=pricey (talking)
+
+	tuition
+
+	afford
+	cost more than most prople can afford.
+
+
+	reasonable
+
+	It costs me less
+	It costs me more
+
+	travel = go 
+
+	public school
+	private school
+
+	goverment
+
+	the rich  (the + adj)
+	=rich people
+	
+	you don't pay much to see doctor
+
+	pay on
+	ex:pay tax on house
+
+
+	much smaller
+
+	a month / monthly
+	a week / weekly
+	a year / yearly
+
+
+	such a adj. n.
+	ex:U.S. is such a big country
+	ex:He is such a good man.
+
+	population is large.
+	
+	expense n
+
+	clinic
+
+	health insurance
+
+	keep price down
+	keep price up
+
+	lowest-priced
+	highest-priced
+	low-priced   (normal)
+	Our lowest-priced laptop.
+
+
+	Hospitals are run by goverment
+
+	enter hospital
+
+
+	optional
+
+
+	spend $ on sth.
+	=pay $ on sth. 
+	=spend $ v-ing sth.  ex: spend 1000$ biking
+	ex:
+	spend 1000$ on biking
+	spend 100$ on gas.
+
+
+	priority
+	first priorty
+
+	day-shift
+	night-shift
+
+	flexible
+
+	makes up
+	ex:It kind of makes up for cimmute
+
+
+	She was a cashier
+	=She used to be a cashier
+
+	take notes
+
+	He is talking on the phone
+	=He is anwering on the phone
+
+	jot down (quickly write)
+	write down (clearly)
+
+
+
+
+	--  ************************************** argentina ****************************************
+	.)What images spring to mind when you hear the country Argentina
+	.)What are the good things and bad things about Argentina
+	.)What is Argentina most famous for
+	.)What do you know about Argentina''s history
+	.)What are the differences between Argentina and your country
+	.)What do you think about Argentina people
+	.)What has Argentina given to the world
+	.)Would you like to visit Argentina , or live there
+	.)What do you know about the geography of Argnetina
+	.)Who are the most famous Argentina people you know
+
+	--  ************************************** argentina ****************************************
+
+
