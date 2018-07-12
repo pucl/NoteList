@@ -1040,7 +1040,7 @@ var DataList= [
         "Sentence":""
         ,
         "VoiceLink":"",
-        "Remark":"all over the Taiwan 遍及全台灣"
+        "Remark":"all over the Taiwan 遍及全台灣 <br> from all over the world來自全世界"
         ,
         "CreateDate":"2017/08/15",
         "KK":"",
@@ -1160,7 +1160,7 @@ var DataList= [
         "Sentence":""
         ,
         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/competition",
-        "Remark":"competition(singing)<>br>=contest(football)"
+        "Remark":"competition(singing)<br>=contest(football)"
         ,
         "CreateDate":"2017/08/15",
         "KK":"[͵kɑmpəˋtɪʃən]",
@@ -1256,6 +1256,471 @@ var DataList= [
         ,
         "CreateDate":"2017/08/28",
         "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"hurt",
+        "Explain":"受傷",
+        "Sentence":"You hurt me (身心皆有)<br> <br> (adj.):I am(was) hurt. = I get(got) hurt. <br> <br> (v.)+ body / feeling : <br>You hurt my feeling. <br>You hurt my leg. <br> <br> won't(will not) hurt! 不會受傷"
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/hurt",
+        "Remark":"physical[ˋfɪzɪk!] 身體 or emotional pain 心理 <br> <br>= wounded[ˋwundɪd] : physical pain <br>= injured[ˈɪn.dʒɚd] (較嚴重的): physical[ˋfɪzɪk!]  or emotional pain or financial[faɪˋnænʃəl] 財務"
+        +"<br> <br> 外傷: v./n. : <br>break[brek] 骨折- broke[brok]<br>bruise[bruz] 瘀青- bruised[bruzd]<br>burn[bɝn] 燙傷- burned[bɝnd]<br>cut[kʌt] 割- cut[kʌt]<br>sprain[spren]/twist[twɪst] 扭傷- sprained/twisted[ˋtwɪstɪd] <br>scratch[skrætʃ] 抓傷- scratched<br>scrape[skrep] 擦傷- scraped",
+        "CreateDate":"2017/08/28",
+        "KK":"[hɝt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"cane",
+        "Explain":"手杖，拐杖",
+        "Sentence":"He is on crutches. 他撐著拐杖 <br> He uses cane."
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/cane",
+        "Remark":"= crutch[krʌtʃ] 較長"
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"[ken]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"claim",
+        "Explain":"聲稱；宣稱；斷言；",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/cane",
+        "Remark":"claim gold medal[ˋmɛd!] 獲得金牌"
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"[klem]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"meter",
+        "Explain":"計，儀，表",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/meter",
+        "Remark":"100-meter (adj) sprinting[sprɪnt] 100公尺  = 100-meter dash"
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"[ˋmitɚ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"mountaineering",
+        "Explain":"爬山",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/mountaineering",
+        "Remark":"= mountain climbing[ˋklaɪmɪŋ]"
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"[͵maʊntəˋnɪrɪŋ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"the view was breathtaking",
+        "Explain":"這景色讚嘆到無法形容",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"specimen",
+        "Explain":"標本；樣本",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/specimen?q=specimens",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"[ˋspɛsəmən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What did you do last weekend",
+        "Explain":"上週你在做什麼",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"plural",
+        "Explain":"複數",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/plural?q=PLURAL",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"[ˋplʊrəl]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"silent",
+        "Explain":"靜音",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/silent",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/28",
+        "KK":"[ˋsaɪlənt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"I don't know yet",
+        "Explain":"我還不知道",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What country you are going to visit",
+        "Explain":"你準備去哪個國家旅遊",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"What country you are going to visit 馬上要做的 <br> <br> = What country will you visit? 較晚的"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"I intend to watch TV later",
+        "Explain":"我準備等等去看電視",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"= I want to watch TV later. <br> = I am ready to watch TV later. <br> = I am about to watch TV later."
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"intention",
+        "Explain":"意圖，打算",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/intention",
+        "Remark":"future intentions 打算要做的事"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[ɪnˋtɛnʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"tense",
+        "Explain":"時態",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/tense",
+        "Remark":"future tense 未來式 <br> present[ˋprɛznt] tense 現在式"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[tɛns]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"adult",
+        "Explain":"成年人",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/adult",
+        "Remark":"an adult"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[əˋdʌlt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"yacht",
+        "Explain":"帆船；快艇；遊艇",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/yacht",
+        "Remark":"in a yacht 搭遊艇"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[jɑt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"P",
+        "Word":"take part in",
+        "Explain":"參加",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"against",
+        "Explain":"反對；與…相反；緊靠著；倚在",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/against",
+        "Remark":"against the wind 逆風"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[əˋgɛnst]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"challenging",
+        "Explain":"有難度的；具有挑戰性的；",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/challenging?q=CHALLENGING",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[ˋtʃælɪndʒɪŋ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"Atlantic",
+        "Explain":"大西洋",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/atlantic?q=Atlantic",
+        "Remark":"Atlantic ocean 大西洋 <br> Pacific[pəˋsɪfɪk] ocean 太平洋 <br> Argentina[͵ɑrdʒənˋtinə] 阿根廷"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[ətˋlæntɪk]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"S",
+        "Word":"one and a half hours",
+        "Explain":"1.5小時",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":" = one hour and a half "
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"length",
+        "Explain":"長度",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/length",
+        "Remark":"the length of the yacht. 這搜船的長度 <br> <br> long (adj.) 長度"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[lɛŋθ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"pound",
+        "Explain":"鎊",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/pound",
+        "Remark":"pound(lb) <br> pounds(lbs)"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[paʊnd]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"cafe",
+        "Explain":"咖啡館",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/cafe",
+        "Remark":"=café <br> = cafe shop <br> internet cafe 網咖 <br> store owner(s)老闆(們)"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[kəˋfe]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"property",
+        "Explain":"所有物；財產；資產",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/property?q=properties",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[ˋprɑpɚtɪ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"doubt",
+        "Explain":"懷疑，疑慮，疑問",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/doubt",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[daʊt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"scenery",
+        "Explain":"風景，景色",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/scenery",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[ˋsinərɪ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"coal",
+        "Explain":"煤",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/coal",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[kol]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"province",
+        "Explain":"省",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/province?q=provinces",
+        "Remark":"10 provinces 10省"
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[ˋprɑvɪns]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      },
+       {
+       "WordType":"W",
+        "Word":"ranch",
+        "Explain":"大牧場，大農場",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/ranch",
+        "Remark":""
+        ,
+        "CreateDate":"2017/08/29",
+        "KK":"[ræntʃ]",
         "Flag":"N",
         "ReadDate":"",
          "image":""
