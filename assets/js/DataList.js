@@ -14,6 +14,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2017/03/28",
         "image":"assets/css/images/PlayIcon.png"
+        ,"pastpp":""
       },
       {
         "WordType":"W",
@@ -28,6 +29,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2017/03/28",
          "image":"assets/css/images/PlayIcon.png"
+         ,"pastpp":""
       }
       ,
       {
@@ -45,6 +47,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       }
 
       ,{
@@ -62,6 +65,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23",
          "image":""
+         ,"pastpp":""
       }
       ,{
         "WordType":"W",
@@ -78,6 +82,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23",
          "image":""
+         ,"pastpp":""
       }
        ,{
         "WordType":"W",
@@ -94,6 +99,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23",
          "image":""
+         ,"pastpp":""
       }
        ,{
         "WordType":"W",
@@ -110,6 +116,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23",
          "image":""
+         ,"pastpp":""
       }
        ,{
         "WordType":"W",
@@ -127,6 +134,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23",
          "image":""
+         ,"pastpp":""
       }
        ,{
         "WordType":"W",
@@ -143,6 +151,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23",
          "image":""
+         ,"pastpp":""
       }
 
        ,
@@ -161,6 +170,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       }
 
        ,
@@ -179,6 +189,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       }
        ,
       {
@@ -196,6 +207,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       }
        ,
       {
@@ -213,6 +225,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       }
        ,
       {
@@ -230,6 +243,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       }
        ,
       {
@@ -245,6 +259,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       },
       {
         "WordType":"W",
@@ -259,6 +274,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"2018/3/23 上午 12:00:00",
          "image":""
+         ,"pastpp":""
       }
       ,
        {
@@ -277,6 +293,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       }
         ,
        {
@@ -293,6 +310,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       }
          ,
        {
@@ -309,6 +327,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       }
          ,
        {
@@ -325,6 +344,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       }
        ,
        {
@@ -341,6 +361,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       } ,
        {
        "WordType":"W",
@@ -356,6 +377,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -371,6 +393,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -386,6 +409,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -401,6 +425,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -416,6 +441,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -431,6 +457,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -446,6 +473,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       }
       ,
        {
@@ -462,6 +490,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       } ,
        {
        "WordType":"P",
@@ -477,6 +506,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -492,6 +522,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -507,6 +538,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -522,6 +554,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -537,6 +570,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -552,6 +586,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -567,6 +602,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -582,6 +618,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -597,6 +634,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -612,6 +650,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -627,6 +666,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -642,6 +682,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -657,6 +698,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -672,6 +714,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -687,6 +730,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -702,6 +746,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -717,6 +762,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -732,6 +778,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -747,6 +794,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -762,6 +810,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -777,6 +826,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -792,6 +842,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -807,6 +858,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -822,6 +874,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -837,6 +890,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -852,6 +906,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -867,6 +922,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -882,6 +938,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -897,6 +954,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -912,6 +970,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -927,6 +986,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -942,6 +1002,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -957,6 +1018,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -972,6 +1034,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -987,6 +1050,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1002,6 +1066,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1017,6 +1082,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1032,6 +1098,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -1047,6 +1114,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1062,6 +1130,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1077,6 +1146,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1092,6 +1162,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1107,6 +1178,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1122,6 +1194,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1137,6 +1210,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1152,6 +1226,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1167,6 +1242,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1182,6 +1258,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1197,6 +1274,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1212,6 +1290,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1229,6 +1308,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1244,6 +1324,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1259,6 +1340,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1274,6 +1356,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1289,6 +1372,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1304,6 +1388,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1319,6 +1404,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1334,6 +1420,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1349,6 +1436,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1364,6 +1452,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1379,6 +1468,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1394,6 +1484,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1409,6 +1500,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1424,6 +1516,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1439,6 +1532,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1454,6 +1548,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1469,6 +1564,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1484,6 +1580,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1499,6 +1596,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1514,6 +1612,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"P",
@@ -1529,6 +1628,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1544,6 +1644,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1559,6 +1660,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1574,6 +1676,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"S",
@@ -1589,6 +1692,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1604,6 +1708,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1619,6 +1724,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1634,6 +1740,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1649,6 +1756,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1664,6 +1772,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1679,6 +1788,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1694,6 +1804,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1709,6 +1820,7 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
       },
        {
        "WordType":"W",
@@ -1724,5 +1836,808 @@ var DataList= [
         "Flag":"N",
         "ReadDate":"",
          "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"survey",
+        "Explain":"調查",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/survey",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"[sɚˋve]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"average",
+        "Explain":"平均",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/average",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"[ˋævərɪdʒ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"socialize",
+        "Explain":"交際",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/socialize",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"[ˋsoʃə͵laɪz]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"leisure",
+        "Explain":"空閒，閒暇，休閒",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/leisure",
+        "Remark":"leisure time <br> = free time <br> = spare time<br> <br> the least free time 最少的休閒時間"
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"[ˋliʒɚ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"typical",
+        "Explain":"典型的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/typical",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"[ˋtɪpɪk!]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"hate",
+        "Explain":"憎恨，憎惡，厭惡",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/hate",
+        "Remark":"hate to + v.<br>hate v-ing <br> hope to + v. <br> hope v-ing <br> like to + v.<br> like v-ings"
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"[het]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"more then half",
+        "Explain":"超過一半",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"P",
+        "Word":"tied up",
+        "Explain":"捆綁",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/tie-sb-up?q=tied%2Bup",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"P",
+        "Word":"in regard to",
+        "Explain":"關於",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/regard?q=in%252Fwith%2Bregard%2Bto",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"[rɪˋgɑrd]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"P",
+        "Word":"drop by",
+        "Explain":"拜訪，看望",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/drop-by-in?q=DROP%2BBY",
+        "Remark":""
+        ,
+        "CreateDate":"2017/03/30",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"grant",
+        "Explain":"同意，准予，授予",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/grant?q=granted",
+        "Remark":"take it for granted[ˋgræntɪd] 視為理所當然"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[grænt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What's she like?",
+        "Explain":"她長得如何?個性如何?",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"1. appearance[əˋpɪrəns] / look 外表，外觀；外貌 <br>2.personality[͵pɝsnˋælətɪ]個性，性格 <br> =  What does she look like?"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What's today's date?",
+        "Explain":"今天幾號",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"What day is it ? 星期幾?"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"slim",
+        "Explain":"苗條的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/slim",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[slɪm]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"petite",
+        "Explain":"（女子）嬌小的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/petite",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[pəˋtit]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"proportion",
+        "Explain":"比例",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/proportion",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[prəˋporʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"alteration",
+        "Explain":"改動，修改；改變",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/alteration",
+        "Remark":"= chhange"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[͵ɔltəˋreʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"complexion",
+        "Explain":"膚色，氣色",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/complexion",
+        "Remark":"dart : 黑人<br> fair : (筆記寫不黑不白)黃種人?  <br> light : 白人"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[kəmˋplɛkʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"forties",
+        "Explain":"四十年代;四十多歲",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/forties",
+        "Remark":"early : 40~43<br>mid : 44~46<br>late : 47~49"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋfɔrtiz]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"buzz cut",
+        "Explain":"平頭",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/buzz-cut",
+        "Remark":"bang[bæŋ] 瀏海"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[bʌz]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"hairdo",
+        "Explain":"髮型，髮式",
+        "Sentence":"I like your (new) hairdo 我喜歡你的新髮型"
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/hairdo",
+        "Remark":"a bad hair day 心情差"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋhɛr͵du]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"brunette",
+        "Explain":"具黑（或深褐）色頭髮和淺黑色皮膚的女子",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/brunette",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[bruˋnɛt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"P",
+        "Word":"black eye",
+        "Explain":"挨一拳",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/black-eye",
+        "Remark":"dark circle 黑眼圈 <br>dark brown eye 黑眼睛"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"bald",
+        "Explain":"禿頭的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/bald?q=BALD",
+        "Remark":"wig[wɪg] 假髮-整顆頭的 <br>toupee[tuˋpe]假髮-頭頂的<br>goatee[goˋti] 山羊鬍"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[bɔld]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"burp",
+        "Explain":"打嗝",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/burp",
+        "Remark":"gesundheit[gəˋzʊnt͵haɪt]（祝你）健康（常對打噴嚏者使用）"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[bɝp]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"Can you help me?",
+        "Explain":"可以幫忙嗎",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"= Do you do me a favor? <br>= Do you have a minute?"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+
+      },
+       {
+       "WordType":"W",
+        "Word":"passive",
+        "Explain":"被動的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/passive?q=PASSIVE",
+        "Remark":"active[ˋæktɪv] 主動語態 "
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋpæsɪv]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"P",
+        "Word":"mixed up",
+        "Explain":"混合的;混亂的；混雜的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/mixed-up?q=MIXED-UP",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋmɪkstˋʌp]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"peeve",
+        "Explain":"惹惱",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/peeve",
+        "Remark":"pet peeves 令人難以忍受的習慣"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[piv]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"confidential",
+        "Explain":"秘密的，機密的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/confidential",
+        "Remark":"informant[ɪnˋfɔrmənt] 線人"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[͵kɑnfəˋdɛnʃəl]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"P",
+        "Word":"stay away from",
+        "Explain":"遠離某人；避開某事或某物",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/stay-away-from-sb-sth?q=stay%2Baway",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"P",
+        "Word":"rule of thumb",
+        "Explain":"經驗之談；經驗法則",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/rule-of-thumb",
+        "Remark":"thumb[θʌm] 拇指"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"modify",
+        "Explain":"修改；修飾",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/modify",
+        "Remark":"adj. 修飾 n. <br>adv. 修飾 v./adj./adv."
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋmɑdə͵faɪ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"emphasize",
+        "Explain":"強調",
+        "Sentence":"(X)the Chinese girl in our class.不屬於特定,是較大眾<br>(O)the white girl in our class.白人屬於特定"
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/emphasize",
+        "Remark":"the + emphasize <br>the one & only"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋɛmfə͵saɪz]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"three meals day",
+        "Explain":"一天三餐",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"server",
+        "Explain":"服務員",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/server",
+        "Remark":"=waiter[ˋwetɚ] 男服務員<br>waitress[ˋwetrɪs] 女服務生"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋsɝvɚ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"physically",
+        "Explain":"肉體地，身體上地",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/physically",
+        "Remark":"physically challenged[ˋtʃælɪndʒd] 殘障人士"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ˋfɪzɪk!ɪ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"adventurous",
+        "Explain":"喜歡冒險的；大膽創新的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/adventurous",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[ədˋvɛntʃərəs]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"light",
+        "Explain":"光；輕的；亮的；淡的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/light?q=light%2Bsleeper",
+        "Remark":"light sleeper 淺眠的人"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[laɪt]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"demote",
+        "Explain":"降職",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/demote",
+        "Remark":"promote[prəˋmot] 升職"
+        ,
+        "CreateDate":"2017/04/05",
+        "KK":"[dɪˋmot]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"possession",
+        "Explain":"所有物;擁有",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/possession",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"[pəˋzɛʃən]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"How many",
+        "Explain":"",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"How many + 可數 <br> How much + 不可數"
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"Do you have a pen?",
+        "Explain":"你有筆嗎",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"A:Yes,I do. I have a pen.<br>助動詞問句動詞不用變化,不管肯定,否定動詞都原形"
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"positive",
+        "Explain":"肯定的",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/positive?q=POSITIVE",
+        "Remark":"negative[ˋnɛgətɪv] 否定的"
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"[ˋpɑzətɪv]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"some/any",
+        "Explain":"一些",
+        "Sentence":"I have three sisters.<br>I don't have any brothers.<br>I don't have any cars,I have some bicycle.<br>I don't have long hair, I have short hair.<br>Do you have any money?"
+        ,
+        "VoiceLink":"",
+        "Remark":"some : 肯定句<br>any : 否定句/疑問句"
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"scooter",
+        "Explain":"小型機車",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/scooter",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"[ˋskutɚ]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"backpack",
+        "Explain":"旅行包，背包",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/backpack",
+        "Remark":""
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"[ˋbæk͵pæk]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"What does he/she look like?",
+        "Explain":"她/他長怎樣",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":" = What is he/she like?<br> She is tall, thin, fair skin and blue eyes. 她高,瘦,白皮膚藍眼睛<br>She has long straight black hair.她有黑色長髮"
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":""
+      },
+       {
+       "WordType":"S",
+        "Word":"She has long straight black hair",
+        "Explain":"她有黑色長髮",
+        "Sentence":""
+        ,
+        "VoiceLink":"",
+        "Remark":"height : short / average height(中等) / tall<br> weight : skinny[ˋskɪnɪ](皮包骨) / thin(一般瘦) / slim[slɪm](苗條的) / slender[ˋslɛndɚ](苗條的)  / curvy[ˋkɝvɪ](曲線的) / fit  / medium-weight / heavy / overweight / obese[oˋbis](超重) <br>eyes : brown / dark / blue / green / gray / hazel[ˋhez!](淡褐色)<br>hair : black / brown / blonde[blɑnd](金黃色的) / red / gray(白頭髮) / long / short / average length / straight / curly[ˋkɝlɪ](小卷) / wavy[ˋwevɪ](大卷)"
+        +"<br> skin : yellow(黃種人) / brown(黃種人) / fair(白人) / white(白人) / dark(黑人) / black(黑人) / red(印地安人) <br> face : mustache[ˋmʌstæʃ](嘴唇上的鬍子) / beard[bɪrd](下巴的鬍子) <br> he wear mustache.他留了鬍子"
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+      	,"pastpp":""
+      },
+       {
+       "WordType":"W",
+        "Word":"photograph",
+        "Explain":"照片，相片",
+        "Sentence":""
+        ,
+        "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/photograph",
+        "Remark":"過去式： photographed 　過去分詞： photographed "
+        ,
+        "CreateDate":"2017/04/10",
+        "KK":"[ˋfotə͵græf]",
+        "Flag":"N",
+        "ReadDate":"",
+         "image":""
+         ,"pastpp":"photograph - photographed - photographed "
       }
     ]
