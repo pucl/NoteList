@@ -18,6 +18,8 @@
 					<header id="header" class="alt">
 						<!--<h1><a href="index.html">English</a></h1>-->
 						<button onclick="save()" type="button"> save </button>
+						<button onclick="save()" type="button"> pre </button>
+						<button onclick="save()" type="button"> next </button>
 						<nav id="nav">
 							<ul>
 								<li class="special">
@@ -56,7 +58,7 @@
 
 
 			</div>
-
+<div id="backCoverMsg"><p>save to homepage</p></div>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
@@ -96,18 +98,27 @@
 	  	localStorage.lastTimePhase = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 	  }
 
-	   
+	   $("#backCoverMsg").stop(true, true).fadeIn();
+       $("#backCoverMsg").stop(true, true).fadeOut(3000);
 
 }
 
 
-	var parameters = location.search.substring(1).split("&");
+var parameters = location.search.substring(1).split("&");
 
 
     var temp = parameters[0].split("=");
     l = unescape(temp[1]);
-    
+
+function nextbtn(){
    
+   //var nextw = parameters[1].split("=");
+ 	//var lnext = unescape(temp[1]);
+
+
+}
+	
+ 
 
 
 
@@ -145,8 +156,12 @@
 						 		outputbanner +='<p>'+ val.Explain +'</p>';
 							 if(val.CreateDate !== '')
 							 	outputbanner +='<p>'+ val.CreateDate +'</p>';
+ 							if(val.pastpp !== '')
+							 	outputbanner +='<p>'+ val.pastpp +'</p>';
 							 if(val.VoiceLink !=='')
 							 	outputbanner +='<a href = '+val.VoiceLink+'>VoiceLink</a>';
+
+						 	
 
 							 	 if(val.WordType !=='')
 						 	 		outputbanner +='<input type="hidden" id = "wType" value= '+val.WordType+'>';
