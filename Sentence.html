@@ -79,6 +79,7 @@ $(document).ready(function(){
 				if ((val.WordType == 'S')) {
 				var nkey = Object.keys(DataList)[key];
 				  output += '<p>' ;
+				   output += '<a name ='+ nkey +'></a>'
 				  output += '<a href="Detail.html?name=' + val.Word + '&pindex='+nkey+ '"</a>'+ val.Word 
 				   output += '</p></br>';
 				

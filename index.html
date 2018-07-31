@@ -115,7 +115,7 @@ var outputbanner = ''
 					   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
 	 					 outputbanner += '<p>go to List:' ;
 					  //outputbanner += '<a name ='+ _lastWord +'></a>'
-					  outputbanner += '<a href="word.html?#' + _lastWord+'">'+ _lastWord + '</a>'
+					  outputbanner += '<a href="word.html?#' + _lastIndexW+'">'+ _lastWord + '</a>'
 					   outputbanner += '</p>';
 					   break;
 					
@@ -136,7 +136,7 @@ var outputbanner = ''
 	  
 		
 
-		var _lastPhase =   localStorage.getItem("lastphase").replace(/ /g,"-");
+		var _lastPhase =   localStorage.getItem("lastphase");
 	   var _lastPhaseType=  localStorage.getItem("lastphaseType");
 	   var _lastTimePhase =  localStorage.getItem("lastTimePhase");
 	    var _lastIndexP =  localStorage.getItem("indexWordP");
@@ -157,7 +157,7 @@ var outputbanner = ''
 						   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
 		 					 outputbanner += '<p>go to List:' ;
 						  //outputbanner += '<a name ='+ _lastWord +'></a>'
-						  outputbanner += '<a href="phase.html?#' + _lastPhase+'">'+ _lastPhase + '</a>'
+						  outputbanner += '<a href="phase.html?#' + _lastIndexP+'">'+ _lastPhase + '</a>'
 						   outputbanner += '</p>';
 						   break;
 
@@ -177,7 +177,7 @@ var outputbanner = ''
 
 
 
-		var _lastSentence =   localStorage.getItem("lastSentence").replace(/ /g,"-");
+		var _lastSentence =   localStorage.getItem("lastSentence");
 	   var _lastSentenceType=  localStorage.getItem("lastSentenceType");
 	   var _lastTimeSentence =  localStorage.getItem("lastTimeSentence");
 	    var _lastIndexS =  localStorage.getItem("indexWordS");
@@ -195,7 +195,7 @@ var outputbanner = ''
 					   outputbanner += '</p>';
 
 	 					 outputbanner += '<p>go to List:' ;
-					  outputbanner += '<a href="Sentence.html?#' + _lastSentence+'">'+ _lastSentence + '</a>'
+					  outputbanner += '<a href="Sentence.html?#' + _lastIndexS+'">'+ _lastSentence + '</a>'
 					   outputbanner += '</p>';
 					   break;
 				
