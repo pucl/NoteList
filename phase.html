@@ -90,9 +90,9 @@ $(document).ready(function(){
             var count = 1;
 			  $.each(DataList, function(key, val){
 				if ((val.WordType == 'P')) {
-				
+					var nkey = Object.keys(DataList)[key];
 				  output += '<p>' ;
-				  output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
+				  output += '<a href="Detail.html?name=' + val.Word.replace(/ /g,"-") + '&pindex='+nkey+'"</a>'+ val.Word 
 				   output += '</p></br>';
 				
 				}

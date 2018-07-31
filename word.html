@@ -150,7 +150,10 @@ $(document).ready(function(){
 			  $.each(DataList, function(key, val){
 				if ((val.WordType == 'W')) {
 				
-						//var key = Object.keys(DataList)[key+1];
+						var nkey = Object.keys(DataList)[key];
+						//var nextvalue = DataList[key].Word; 
+
+						//var pkey = Object.keys(DataList)[parseInt(key)+parseInt(1)];
 						//var nextvalue = DataList[key].Word; 
 						//
 						//
@@ -158,7 +161,7 @@ $(document).ready(function(){
 					//var nextPerson = DataList[key+1]  .friends[nextPersonName];
 				  output += '<p>' ;
 				  output += '<a name ='+ val.Word +'></a>'
-				  output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
+				  output += '<a href="Detail.html?name=' + val.Word + '&pindex='+nkey+'"</a>'+ val.Word 
 				   output += '</p></br>';
 				
 				}

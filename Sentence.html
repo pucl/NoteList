@@ -77,9 +77,9 @@ $(document).ready(function(){
             var count = 1;
 			  $.each(DataList, function(key, val){
 				if ((val.WordType == 'S')) {
-				
+				var nkey = Object.keys(DataList)[key];
 				  output += '<p>' ;
-				  output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
+				  output += '<a href="Detail.html?name=' + val.Word + '&pindex='+nkey+ '"</a>'+ val.Word 
 				   output += '</p></br>';
 				
 				}

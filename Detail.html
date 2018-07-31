@@ -18,8 +18,8 @@
 					<header id="header" class="alt">
 						<!--<h1><a href="index.html">English</a></h1>-->
 						<button onclick="save()" type="button"> save </button>
-						<button onclick="save()" type="button"> pre </button>
-						<button onclick="save()" type="button"> next </button>
+						<button onclick="prebtn()" type="button"> pre </button>
+						<button onclick="nextbtn()" type="button"> next </button>
 						<nav id="nav">
 							<ul>
 								<li class="special">
@@ -47,6 +47,7 @@
 
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
+						
 							<header class="major">
 							
 							</header>
@@ -75,6 +76,7 @@
 	  // localStorage.setItem("lastWordType");
 	  //localStorage.setItem("lastTime");
 	  var _type = $('#wType').val();
+
 	  if(_type == 'W'){
 
 		   localStorage.lastWord = $('#banner .inner h2').text();
@@ -83,10 +85,22 @@
 		    var m = new Date().getMonth() + 1; //Month from 0 to 11
 		    var y = new Date().getFullYear();
 		    
-
+		     localStorage.indexWordW = nIndex;
 		  localStorage.lastTimeWord = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 
-	  }else{
+	  }
+	  else if (_type == 'S'){
+
+	  	 localStorage.lastSentence = $('#banner .inner h2').text();
+	   localStorage.lastSentenceType = 'S';
+	       var d = new Date().getDate();
+	    var m = new Date().getMonth() + 1; //Month from 0 to 11
+	    var y = new Date().getFullYear();
+	    
+ 	localStorage.indexWordS = nIndex;
+	  localStorage.lastTimeSentence = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+	  }
+	  else{
 
   		localStorage.lastphase = $('#banner .inner h2').text();
 	   	localStorage.lastphaseType = $('#wType').val();
@@ -94,7 +108,7 @@
 	    var m = new Date().getMonth() + 1; //Month from 0 to 11
 	    var y = new Date().getFullYear();
 	    
-
+ 		localStorage.indexWordP = nIndex;
 	  	localStorage.lastTimePhase = '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
 	  }
 
@@ -110,14 +124,143 @@ var parameters = location.search.substring(1).split("&");
     var temp = parameters[0].split("=");
     l = unescape(temp[1]);
 
-function nextbtn(){
-   
+var tempindex = parameters[1].split("=");
+    nowIndex = unescape(tempindex[1]);
+
+    var val = DataList[nowIndex];
+
+    	var nIndex = parseInt(nowIndex);
+   var val = DataList[nIndex];
    //var nextw = parameters[1].split("=");
  	//var lnext = unescape(temp[1]);
+ 	//
+ 	var Detailtype = val.WordType;
+ 	var str = '<a id="nclick" href="Detail.html?name=' + val.Word + '&pindex='+nIndex+'"></a>'
+ 	$('#three .inner').html(str);
+function nextbtn(){
+		var flag = true;
+			while(flag){
+			 nIndex = parseInt(nIndex) + parseInt(1);
+			 val = DataList[nIndex];
+			 if(val.WordType != '' || val.WordType != 'undefined'){
+			 	if(Detailtype == val.WordType){
+			 		flag =false;
+			 	}
+			 }
+			}
 
+			
+			output = '<ul class="features">';
+               outputbanner = ''
+							  if(val.Remark != ''){
+							  	output += ' <li class="icon fa-flag-o">' ;
+							  	output += '<p>' + val.Remark + '</p>';
+							   	output += '</li>';
+							  }
+					    	if(val.Sentence != ''){
+					    		output += ' <li class="icon fa-flag-o">' ;
+						  		output += '<p>' + val.Sentence + '</p>';
+					   			output += '</li>';
+					    	}
+					    	if(val.image != ''){
+					    		output += ' <li class="icon fa-flag-o">' ;
+						  		output += '<img src='+val.image+' alt="" />';
+					   			output += '</li>';
+					    	}
+								
+							  outputbanner +='<h2>'+ val.Word +'</h2>';
+							 if(val.KK !=='')
+							  	outputbanner +='<div id= "kkname">'+ val.KK +'</p></div>';
+							  if(val.Explain !== '')
+						 		outputbanner +='<p>'+ val.Explain +'</p>';
+							 if(val.CreateDate !== '')
+							 	outputbanner +='<p>'+ val.CreateDate +'</p>';
+ 							if(val.pastpp !== '')
+							 	outputbanner +='<p>'+ val.pastpp +'</p>';
+							 if(val.VoiceLink !=='')
+							 	outputbanner +='<a href = '+val.VoiceLink+'>VoiceLink</a>';
+
+						 	
+
+							 	 if(val.WordType !=='')
+						 	 		outputbanner +='<input type="hidden" id = "wType" value= '+val.WordType+'>';
+							 		//<input type="hidden" id="postId" name="postId" value="34657">
+								 isfind = true;
+					//	}	
+				//}
+
+				//if(isfind === true)
+				//	return false;
+			 // });
+			  output += '</ul>';
+			  $('#three .inner').html(output);
+ $('#banner .inner').html(outputbanner);
+
+ 	 //$("#nclick").click();
 
 }
-	
+	function prebtn(){
+
+			var flag = true;
+			while(flag){
+			nIndex = parseInt(nIndex) - parseInt(1);
+			 val = DataList[nIndex];
+			 if(val.WordType != '' || val.WordType != 'undefined'){
+			 	if(Detailtype == val.WordType){
+			 		flag =false;
+			 	}
+			 }
+			}
+			 
+			output = '<ul class="features">';
+               outputbanner = ''
+							  if(val.Remark != ''){
+							  	output += ' <li class="icon fa-flag-o">' ;
+							  	output += '<p>' + val.Remark + '</p>';
+							   	output += '</li>';
+							  }
+					    	if(val.Sentence != ''){
+					    		output += ' <li class="icon fa-flag-o">' ;
+						  		output += '<p>' + val.Sentence + '</p>';
+					   			output += '</li>';
+					    	}
+					    	if(val.image != ''){
+					    		output += ' <li class="icon fa-flag-o">' ;
+						  		output += '<img src='+val.image+' alt="" />';
+					   			output += '</li>';
+					    	}
+								
+							  outputbanner +='<h2>'+ val.Word +'</h2>';
+							 if(val.KK !=='')
+							  	outputbanner +='<div id= "kkname">'+ val.KK +'</p></div>';
+							  if(val.Explain !== '')
+						 		outputbanner +='<p>'+ val.Explain +'</p>';
+							 if(val.CreateDate !== '')
+							 	outputbanner +='<p>'+ val.CreateDate +'</p>';
+ 							if(val.pastpp !== '')
+							 	outputbanner +='<p>'+ val.pastpp +'</p>';
+							 if(val.VoiceLink !=='')
+							 	outputbanner +='<a href = '+val.VoiceLink+'>VoiceLink</a>';
+
+						 	
+
+							 	 if(val.WordType !=='')
+						 	 		outputbanner +='<input type="hidden" id = "wType" value= '+val.WordType+'>';
+							 		//<input type="hidden" id="postId" name="postId" value="34657">
+								 isfind = true;
+					//	}	
+				//}
+
+				//if(isfind === true)
+				//	return false;
+			 // });
+			  output += '</ul>';
+			  $('#three .inner').html(output);
+ $('#banner .inner').html(outputbanner);
+
+ 	 //$("#nclick").click();
+
+}
  
 
 
@@ -128,9 +271,9 @@ function nextbtn(){
               var outputbanner = ''
             var count = 1;
             var isfind = false;
-			  $.each(DataList, function(key, val){
-				if ((val.Word.search(regex) != -1)) {
-					if(val.Word === l){
+			  //$.each(DataList, function(key, val){
+				//if ((val.Word.search(regex) != -1)) {
+					//if(val.Word === l){
 
 
 							  if(val.Remark != ''){
@@ -167,12 +310,12 @@ function nextbtn(){
 						 	 		outputbanner +='<input type="hidden" id = "wType" value= '+val.WordType+'>';
 							 		//<input type="hidden" id="postId" name="postId" value="34657">
 								 isfind = true;
-						}	
-				}
+					//	}	
+				//}
 
-				if(isfind === true)
-					return false;
-			  });
+				//if(isfind === true)
+				//	return false;
+			 // });
 			  output += '</ul>';
 			  $('#three .inner').html(output);
  $('#banner .inner').html(outputbanner);

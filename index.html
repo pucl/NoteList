@@ -97,6 +97,7 @@ var outputbanner = ''
 	  var _lastWord =   localStorage.getItem("lastWord");
 	   var _lastWordType=  localStorage.getItem("lastWordType");
 	   var _lastTime =  localStorage.getItem("lastTimeWord");
+	    var _lastIndexW =  localStorage.getItem("indexWordW");
  		outputbanner = '';
  		if (_lastWord === '' && _lastWordType ==='' && _lastTime===''){
  			outputbanner += '<h3>No Record</h3>';
@@ -108,7 +109,7 @@ var outputbanner = ''
 					 case 'W':
 	 					outputbanner += '<p>Last reading word: ' ;
 					 // outputbanner += '<a name ='+ _lastWord +'></a>'
-					  outputbanner += '<a href="Detail.html?name=' + _lastWord + '">'+ _lastWord +'</a>';
+ outputbanner += '<a href="Detail.html?name=' + _lastWord  + '&pindex='+_lastIndexW+ '">'+ _lastWord +'</a>';
 					   outputbanner += '</p>';
 
 					   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
@@ -135,9 +136,10 @@ var outputbanner = ''
 	  
 		
 
-		var _lastPhase =   localStorage.getItem("lastphase");
+		var _lastPhase =   localStorage.getItem("lastphase").replace(/ /g,"-");
 	   var _lastPhaseType=  localStorage.getItem("lastphaseType");
 	   var _lastTimePhase =  localStorage.getItem("lastTimePhase");
+	    var _lastIndexP =  localStorage.getItem("indexWordP");
  		//outputbanner = '';
  		if (_lastPhase == '' && _lastPhaseType =='' && _lastTimePhase==''){
  			outputbanner += '<h3>No Record</h3>';
@@ -149,7 +151,7 @@ var outputbanner = ''
 					  case 'P' :
 							outputbanner += '<p>Last reading phase: ' ;
 						 // outputbanner += '<a name ='+ _lastWord +'></a>'
-						  outputbanner += '<a href="Detail.html?name=' + _lastPhase + '">'+ _lastPhase +'</a>';
+						  outputbanner += '<a href="Detail.html?name=' + _lastPhase + '&pindex='+_lastIndexP+ '">'+ _lastPhase +'</a>';
 						   outputbanner += '</p>';
 
 						   	//outputbanner += '<h3>'+ _lastWord +'</h3>';
@@ -175,9 +177,10 @@ var outputbanner = ''
 
 
 
-		var _lastSentence =   localStorage.getItem("lastSentence");
+		var _lastSentence =   localStorage.getItem("lastSentence").replace(/ /g,"-");
 	   var _lastSentenceType=  localStorage.getItem("lastSentenceType");
 	   var _lastTimeSentence =  localStorage.getItem("lastTimeSentence");
+	    var _lastIndexS =  localStorage.getItem("indexWordS");
  		//outputbanner = '';
  		if (_lastSentence === '' && _lastSentenceType ==='' && _lastTimeSentence===''){
  			outputbanner += '<h3>No Record</h3>';
@@ -188,7 +191,7 @@ var outputbanner = ''
  					case 'S':
 	 					outputbanner += '<p>Last reading sentence: ' ;
 					
-					  outputbanner += '<a href="DetailS.html?name=' + _lastSentence + '">'+ _lastSentence +'</a>';
+					  outputbanner += '<a href="Detail.html?name=' + _lastSentence + '&pindex='+_lastIndexS+ '">'+ _lastSentence +'</a>';
 					   outputbanner += '</p>';
 
 	 					 outputbanner += '<p>go to List:' ;
@@ -231,30 +234,31 @@ $('#txt-search').keyup(function(){
             var output = '<header class="major">';
             var count = 1;
 			  $.each(DataList, function(key, val){
+			  	var nkey = Object.keys(DataList)[key];
 				if ((val.Word.search(regex) != -1)) {
-					if(val.WordType != 'S'){
+					//if(val.WordType != 'S'){
 	  					output += '<h3>' ;
-					  output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
+					  output += '<a href="Detail.html?name=' + val.Word + '&pindex='+nkey+ '"</a>'+ val.Word 
 					   output += '</h3></br>';
 
-					}else{
+					//}else{
 						output += '<h3>' ;
-					  output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
-					   output += '</h3></br>';
-					}
+					//  output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
+					  // output += '</h3></br>';
+					//}
 				
 				  
 				
 				}else if ((val.Remark.search(regex) != -1)){
-					if(val.WordType != 'S'){
+					//if(val.WordType != 'S'){
 						output += '<h3>' ;
-				  		output += '<a href="Detail.html?name=' + val.Word + '"</a>'+ val.Word 
+				  		output += '<a href="Detail.html?name=' + val.Word + '&pindex='+nkey+ '"</a>'+ val.Word 
 				   		output += '</h3></br>';
-					}else{
-						output += '<h3>' ;
-				  		output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
-				   		output += '</h3></br>';
-					}
+					//}else{
+						//output += '<h3>' ;
+				  		//output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
+				   		//output += '</h3></br>';
+					//}
 					
 				}
 			  });
