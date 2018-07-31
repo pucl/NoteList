@@ -2842,6 +2842,18 @@
 				color: #ffffff;
 			}
 
+			#backCoverMsg {
+				position:absolute;  
+				text-align:center; 
+				line-height:10px; 
+				top:50%; 
+				left:50%; 
+				height:inline; 
+				background-color:rgba(0, 0, 0, 0.5); 
+				border-radius: 10px;
+				display: none;
+			    color: white;
+			}
 			.wrapper.style3 input[type="text"],
 			.wrapper.style3 input[type="password"],
 			.wrapper.style3 input[type="email"],
