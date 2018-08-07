@@ -32,7 +32,7 @@
 											<li><a href="word.html">Words</a></li>
 											<li><a href="Sentence.html">Sentences</a></li>
 											<li><a href="phase.html">Phases</a></li>
-											<li><a href="search.html">Search</a></li>
+											
 										</ul>
 									</div>
 								</li>
@@ -242,7 +242,7 @@ $('#txt-search').keyup(function(){
 					   output += '</h3></br>';
 
 					//}else{
-						output += '<h3>' ;
+						//output += '<h3>' ;
 					//  output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
 					  // output += '</h3></br>';
 					//}
@@ -252,8 +252,9 @@ $('#txt-search').keyup(function(){
 				}else if ((val.Remark.search(regex) != -1)){
 					//if(val.WordType != 'S'){
 						output += '<h3>' ;
-				  		output += '<a href="Detail.html?name=' + val.Word + '&pindex='+nkey+ '"</a>'+ val.Word 
+				  	output += '<a href="Detail.html?name=' + val.Word + '&pindex='+nkey+ '"</a>'+ val.Word 
 				   		output += '</h3></br>';
+				   		//output += '<h3>' ;
 					//}else{
 						//output += '<h3>' ;
 				  		//output += '<a href="DetailS.html?name=' + val.Word + '"</a>'+ val.Word 
