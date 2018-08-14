@@ -1477,7 +1477,7 @@ var DataList= [
         "Sentence":""
         ,
         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/plural?q=PLURAL",
-        "Remark":""
+        "Remark":"plural family 多妻家庭"
         ,
         "CreateDate":"2017/08/28",
         "KK":"[ˋplʊrəl]",
@@ -3709,7 +3709,208 @@ var DataList= [
         ,"ReadDate":""
         , "image":""
         ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"uniform"
+        ,"Explain":"制服;使一律化"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/uniform"
+        ,"Remark":""
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋjunə͵fɔrm]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"uniform - uniformed - uniformed - uniforming - 名詞複數：uniforms"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"textile"
+        ,"Explain":"紡織品；紡織原料;紡織的"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/textile"
+        ,"Remark":"名詞複數：textiles"
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋtɛkstaɪl]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"recipe"
+        ,"Explain":"烹飪法；食譜；"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/recipe"
+        ,"Remark":"= cookbook 烹飪書，食譜"
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋrɛsəpɪ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"名詞複數：recipes"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"ingredient"
+        ,"Explain":"成分;原料；要素;因素"
+        ,"Sentence":"She has all the ingredients to be successful.她擁有所有成功的要素<br>"
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/ingredient"
+        ,"Remark":""
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ɪnˋgridɪənt]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"名詞複數：ingredients"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"thesaurus"
+        ,"Explain":"同義詞詞典；主題詞表"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/thesaurus"
+        ,"Remark":""
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[θɪˋsɔrəs]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"名詞複數：thesauruses, thesauri"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"elementary"
+        ,"Explain":"基本的；初級的;基礎的"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/elementary"
+        ,"Remark":"elementary school 小學<br>= primary[ˋpraɪ͵mɛrɪ] school 小學<br><br>junior high school 中學(12~15)<br><br>secondary[ˋsɛkən͵dɛrɪ] school 中學/高中([美]9~12/14~18 [英]11~18) <br>= high school "
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[͵ɛləˋmɛntərɪ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"solar"
+        ,"Explain":"太陽的；日光的；"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/solar"
+        ,"Remark":"soleil 太陽馬戲團<br>solar power 太陽能<br>Solar Calendar 陽曆"
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋsolɚ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"lunar"
+        ,"Explain":"月亮的;月球的；陰曆的"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/lunar"
+        ,"Remark":"Chinese Lunar Calendar 農民曆"
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋlunɚ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"lingo"
+        ,"Explain":"外國語言;外國話;奇怪難懂的語言；行話；隱語"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/lingo"
+        ,"Remark":""
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋlɪŋgo]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"名詞複數：lingoes"
+      },
+       {
+       "WordType":"P"
+        ,"Word":"out and about"
+        ,"Explain":"出去逛逛"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":""
+        ,"CreateDate":"2017/04/26"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"quarantine"
+        ,"Explain":"隔離；檢疫所；檢疫；使隔離；"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/quarantine"
+        ,"Remark":""
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋkwɔrən͵tin]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"quarantine - quarantined - quarantined - quarantining"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"grocery"
+        ,"Explain":"食品雜貨店"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/grocery"
+        ,"Remark":"mom-and-pop shop 柑仔店/私人家庭式經營的小商店<br><br>hardware[ˋhɑrd͵wɛr] store 五金行"
+        ,"CreateDate":"2017/04/26"
+        ,"KK":"[ˋgrosərɪ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"名詞複數：groceries"
+      },
+       {
+       "WordType":"S"
+        ,"Word":"Let's go eat out"
+        ,"Explain":"來去吃飯"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"dine in  = for here 內用<br> take out = to go 外帶"
+        ,"CreateDate":"2017/04/26"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"P"
+        ,"Word":"out of stock"
+        ,"Explain":"沒貨;缺貨"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"while supplies last 賣完為止<br><br>rain check 因故可再憑以入場的球賽票根；（因備貨賣光）可用當日價格以後再購買的卡片;可延期使用的票;迪士尼遇到下雨天可在晴天再來"
+        ,"CreateDate":"2017/04/26"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
       }
+
+
+
+
+
 
 
 
