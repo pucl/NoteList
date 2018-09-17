@@ -4661,25 +4661,259 @@ var DataList= [
         ,"ReadDate":""
         , "image":""
         ,"pastpp":"districts"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"pronoun"
+        ,"Explain":"代名詞"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/pronoun"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/03"
+        ,"KK":"[ˋpronaʊn]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"P"
+        ,"Word":"turn right"
+        ,"Explain":""
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":" = take a right"
+        ,"CreateDate":"2017/05/03"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"P"
+        ,"Word":"tag question"
+        ,"Explain":"附加問句"
+        ,"Sentence":"It is ..., isn't it ? <br>It isn't ..., is it? <br>He likes you, doesn't he?<br>He doesn't like you, does he? <br>I am student, am I not?"
+        ,"VoiceLink":""
+        ,"Remark":""
+        ,"CreateDate":"2017/05/03"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"errand"
+        ,"Explain":"差事;差使；任務;使命"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/errand"
+        ,"Remark":"run an errand 跑腿"
+        ,"CreateDate":"2017/05/03"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"errands"
+      },
+       {
+       "WordType":"S"
+        ,"Word":"How do I get to the school?"
+        ,"Explain":""
+        ,"Sentence":" = How do I go to the school?"
+        ,"VoiceLink":""
+        ,"Remark":"take the first left 第2個路口左轉<br>go straight = go down 直走"
+        ,"CreateDate":"2017/05/03"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"P"
+        ,"Word":"in the evening"
+        ,"Explain":"晚上"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":" = at night<br> late at night 更晚些的晚上"
+        ,"CreateDate":"2017/05/09"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"P"
+        ,"Word":"meet new people"
+        ,"Explain":"交新朋友"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":" = make new people"
+        ,"CreateDate":"2017/05/09"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"secretary"
+        ,"Explain":"祕書；（政府機關等的）祕書官，書記官"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/secretary"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[ˋsɛkrə͵tɛrɪ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"secretaries"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"thesis"
+        ,"Explain":"論題;命題；論點；論文"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/thesis"
+        ,"Remark":"graduate student 研究生"
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[ˋθisɪs]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"theses"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"psychology"
+        ,"Explain":"心理學；心理"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/psychology"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[saɪˋkɑlədʒɪ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"psychologies"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"major"
+        ,"Explain":"主修 ;主要的，重要的；成年人;重要人物；才能卓越者"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/major"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[ˋmedʒɚ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"majored - majored - majoring - majors"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"virtual"
+        ,"Explain":"事實上的;實際上的;實質上的；虛擬的"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/virtual"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[ˋvɝtʃʊəl]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"combination"
+        ,"Explain":"結合；團體；聯盟;密碼"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/combination"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[͵kɑmbəˋneʃən]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"combinations"
+      },
+       {
+       "WordType":"S"
+        ,"Word":"create an account"
+        ,"Explain":"開帳戶"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":" = apply for an account"
+        ,"CreateDate":"2017/05/09"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"S"
+        ,"Word":"Who does these things?"
+        ,"Explain":"誰做了這些事"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"does = 做 ,不是助動詞"
+        ,"CreateDate":"2017/05/09"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"deliver"
+        ,"Explain":"投遞；傳送；運送;履行，實現"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/deliver"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[dɪˋlɪvɚ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"delivered - delivered - delivering"
+      },
+       {
+       "WordType":"S"
+        ,"Word":"take an English class"
+        ,"Explain":"上英文課"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"take a computer class 上電腦課"
+        ,"CreateDate":"2017/05/09"
+        ,"KK":""
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"Mumbai"
+        ,"Explain":"孟買"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/mumbai?q=Mumbai"
+        ,"Remark":"Hindi[ˋhɪnˋdi] 北印度語 "
+        ,"CreateDate":"2017/05/09"
+        ,"KK":"[mʌmˋbaɪ]"
+        ,"Flag":"N"
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
       }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
