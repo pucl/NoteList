@@ -2843,16 +2843,17 @@
 			}
 
 			#backCoverMsg {
-				position:absolute;  
+				position:absolute; 
 				text-align:center; 
 				line-height:10px; 
-				top:50%; 
-				left:50%; 
+				top:30%; 
+				/*left:50%; */
 				height:inline; 
 				background-color:rgba(0, 0, 0, 0.5); 
 				border-radius: 10px;
 				display: none;
 			    color: white;
+			    width: 100%;
 			}
 			.wrapper.style3 input[type="text"],
 			.wrapper.style3 input[type="password"],
@@ -3668,6 +3669,8 @@
 				#banner .more {
 					display: none;
 				}
+
+				
 
 		}
 
