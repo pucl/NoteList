@@ -250,9 +250,9 @@ var DataList= [
         "WordType":"P",
         "Word":"a lot of",
         "Explain":"很多",
-        "Sentence":"",
+        "Sentence":"= lots of <br> 加可數/不可數名詞",
         "VoiceLink":"",
-        "Remark":"=a lots"
+        "Remark":"many/some/a few 加可數名詞<br><br>much/some/a little 加不可數名詞<br><br>不可數:<br>液態:water<br>粉粒狀:rice<br>氣體:air<br>資源:gas<br>切割:meat"
         ,
         "CreateDate":"2018/3/23",
         "KK":"",
@@ -900,6 +900,8 @@ var DataList= [
         ,
         "VoiceLink":"",
         "Remark":"When do you have free time? 什麼時間有空閒時間 <br>what's your hobby? 你的嗜好是什麼? <br> what are your hobbies?你的嗜好有什麼"
+        		+"<br>What kind of activity do you like? 你喜歡做什麼類型的活動<br>Are you tired of ___ ? 你厭倦什麼<br>Do you want to try to ___ ? 你想要試試看__<br><br> I love ___ <br>I like ___ <br>I don't like ___ <br>I've never tired ___ <br>"
+        		+"I'd like to try ___ <br>I don't ever want to try ___"
         ,
         "CreateDate":"2017/03/27",
         "KK":"[rɪˈsep.ʃən]",
@@ -1477,7 +1479,7 @@ var DataList= [
         "Sentence":""
         ,
         "VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/plural?q=PLURAL",
-        "Remark":"plural family 多妻家庭"
+        "Remark":"plural family 多妻家庭<br>singular [ˋsɪŋgjəlɚ] 單數的;單數"
         ,
         "CreateDate":"2017/08/28",
         "KK":"[ˋplʊrəl]",
@@ -4472,7 +4474,7 @@ var DataList= [
         ,"Explain":"母音"
         ,"Sentence":""
         ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/vowel"
-        ,"Remark":"short vowel 短母音 <br> consonant[ˋkɑnsənənt] 子音<br>"
+        ,"Remark":"short vowel 短母音 <br> consonant[ˋkɑnsənənt] 子音<br>voiceless[ˋvɔɪslɪs] 無聲的；無言的；無發言權的"
         ,"CreateDate":"2017/05/03"
         ,"KK":"[ˋvaʊəl]"
         ,"Flag":"N"
@@ -6069,8 +6071,176 @@ var DataList= [
         ,"Explain":"可以幫你點餐嗎"
         ,"Sentence":"= May I take your order"
         ,"VoiceLink":""
-        ,"Remark":"chocolate[ˋtʃɑkəlɪt] 巧克力(不可數名詞)<br>cake 不可數名詞<br>fish 可數名詞 , 但two fish 不加s<br>sheep 可數名詞<br>noodle 可數名詞<br>pasta 不可數名詞<br>chips (英式;一定要加s) = fries (美式)"
+        ,"Remark":"chocolate[ˋtʃɑkəlɪt] 巧克力(不可數名詞)<br>cake 不可數名詞<br>fish 可數名詞 , 但two fish 不加s<br>sheep 可數名詞<br>noodle 可數名詞<br>pasta 不可數名詞<br>chips (英式;一定要加s) = fries (美式) <br>meat 肉;不可數"
         ,"CreateDate":"2017/05/23"
+        ,"KK":""
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"beverage"
+        ,"Explain":"飲料"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/beverage"
+        ,"Remark":"drinks 可包含酒精飲料"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":"[ˋbɛvərɪdʒ]"
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":" beverages"
+      },
+       {
+       "WordType":"S"
+        ,"Word":"I love apples"
+        ,"Explain":"我喜歡蘋果"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"不需要加冠詞  the / a"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":""
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":" "
+      },
+       {
+       "WordType":"S"
+        ,"Word":"What food don't you like"
+        ,"Explain":"你不喜歡什麼食物"
+        ,"Sentence":"= What food do you not like"
+        ,"VoiceLink":""
+        ,"Remark":"I don't like <br>= I dislike"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":""
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":" "
+      },
+       {
+       "WordType":"S"
+        ,"Word":"What food don't you like"
+        ,"Explain":"你不喜歡什麼食物"
+        ,"Sentence":"= What food do you not like"
+        ,"VoiceLink":""
+        ,"Remark":"I don't like <br>= I dislike"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":""
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":" "
+      },
+       {
+       "WordType":"W"
+        ,"Word":"desert"
+        ,"Explain":"沙漠;沙漠的;拋棄；遺棄；離棄"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/desert"
+        ,"Remark":"dessert[dɪˋzɝt] 甜點"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":"n.[ˋdɛzɚt]/ v.[dɪˋzɝt]"
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"deserted - deserted - deserting"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"taste"
+        ,"Explain":"味覺; 味道;嚐;感到；體驗"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/taste"
+        ,"Remark":"spicy 加香料的; 香辣的<br>sour[ˋsaʊr] 酸的 <br>meal 一餐/正餐"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":"[test]"
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"tasted - tasted - tasting - tastes"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"sour"
+        ,"Explain":"酸的; 使變酸；使發酵；使變得不愉快；使失望；酸味"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/sour"
+        ,"Remark":"比較級： sourer <br>最高級： sourest"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":"[ˋsaʊr]"
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"soured - soured - souring - sours"
+      },
+       {
+       "WordType":"W"
+        ,"Word":"chopsticks"
+        ,"Explain":"筷子"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/chopstick"
+        ,"Remark":"fork [fɔrk] 叉子"
+        ,"CreateDate":"2017/05/23"
+        ,"KK":"[ˋtʃɑp͵stɪk]"
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"W"
+        ,"Word":"fork"
+        ,"Explain":"叉子;分歧;分叉;使成叉狀"
+        ,"Sentence":""
+        ,"VoiceLink":"https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/fork"
+        ,"Remark":""
+        ,"CreateDate":"2017/05/23"
+        ,"KK":"[fɔrk]"
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":"forked - forked - forking - forks"
+      },
+       {
+       "WordType":"S"
+        ,"Word":"I'm so envy you"
+        ,"Explain":"羨慕你"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"envy[ˋɛnvɪ] 妒忌；羨慕"
+        ,"CreateDate":"2017/06/07"
+        ,"KK":""
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"S"
+        ,"Word":"What're your "
+        ,"Explain":"羨慕你"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"envy[ˋɛnvɪ] 妒忌；羨慕"
+        ,"CreateDate":"2017/06/07"
+        ,"KK":""
+        ,"Flag":""
+        ,"ReadDate":""
+        , "image":""
+        ,"pastpp":""
+      },
+       {
+       "WordType":"S"
+        ,"Word":"Have you been to go diving?"
+        ,"Explain":"你曾經去潛水嗎(人在眼前)"
+        ,"Sentence":""
+        ,"VoiceLink":""
+        ,"Remark":"Have you ever gone to diving? 你已經去潛水過了嗎?(人不在)"
+        ,"CreateDate":"2017/06/07"
         ,"KK":""
         ,"Flag":""
         ,"ReadDate":""
